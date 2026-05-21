@@ -1,5 +1,5 @@
 <p align="center">
-  🇵🇪 Español &nbsp;|&nbsp; <a href="README_EN.md">🇺🇸 English</a>
+  <a href="README.md">🇵🇪 Español</a> &nbsp;|&nbsp; 🇺🇸 English
 </p>
 
 <div align="center">
@@ -9,28 +9,28 @@
 # Chilete DevPath
 
 **Adrián Pisco**<br>
-Estudiante de Ingeniería de Sistemas e Informática
+Systems and Computer Engineering Student
 
-**Ecosistema personal de aprendizaje, ingeniería y desarrollo de software.**
+**A personal ecosystem for learning, engineering, and software development.**
 
-<code>Backend</code> · <code>Arquitectura</code> · <code>Web Engineering</code> · <code>Disciplina técnica</code>
+<code>Backend</code> · <code>Architecture</code> · <code>Web Engineering</code> · <code>Technical discipline</code>
 
 </div>
 
 ---
 
-## ⚡ Ecosistema de Ingeniería
+## ⚡ Engineering Ecosystem
 
-Chilete DevPath documenta mi crecimiento técnico mientras construyo una base sólida para diseñar software útil, mantenible y bien estructurado.
+Chilete DevPath documents my technical growth while I build a strong foundation for designing useful, maintainable, and well-structured software.
 
-| Enfoque | Práctica actual |
+| Focus | Current practice |
 |---|---|
-| **Ingeniería** | Fundamentos, modelado, patrones y criterio para tomar decisiones técnicas. |
-| **Backend** | Java, Spring Boot, APIs REST, persistencia y diseño orientado a sistemas. |
-| **Frontend** | Interfaces web claras para convertir soluciones técnicas en producto usable. |
-| **Evolución** | Proyectos, aprendizaje continuo y mejora progresiva del criterio de arquitectura. |
+| **Engineering** | Fundamentals, modeling, patterns, and judgment for technical decisions. |
+| **Backend** | Java, Spring Boot, REST APIs, persistence, and systems-oriented design. |
+| **Frontend** | Clear web interfaces that turn technical solutions into usable products. |
+| **Growth** | Projects, continuous learning, and progressive architectural thinking. |
 
-## ⚙️ Stack Tecnológico
+## ⚙️ Technology Stack
 
 <div align="center">
 
@@ -41,36 +41,36 @@ Chilete DevPath documenta mi crecimiento técnico mientras construyo una base s�
 
 </div>
 
-## 🧭 Ruta DevPath
+## 🧭 DevPath Route
 
 <div align="center">
 
 ```txt
-Ingeniería de Sistemas -> Backend -> Arquitectura de Software -> Producto Web
+Systems Engineering -> Backend -> Software Architecture -> Web Product
 ```
 
 </div>
 
-| Ahora | Próximo tramo |
+| Now | Next stretch |
 |---|---|
 | Java · Spring Boot · React · Docker · PostgreSQL | TypeScript · Node.js · Linux · AWS · Kubernetes |
 
-## 🛠 Proyectos Destacados
+## 🛠 Featured Projects
 
-| Proyecto | Enfoque de ingeniería | Stack |
+| Project | Engineering focus | Stack |
 |---|---|---|
-| **FerreSys** | Sistema empresarial, POO y patrones de diseño. | Java |
-| **Spring Microservices** | APIs REST, persistencia y despliegue de servicios. | Spring Boot · PostgreSQL · Docker · Render |
-| **Web Engineering** | Frontend moderno y construcción de interfaces. | HTML · CSS · JavaScript · React |
-| **DevPath Labs** | Experimentación técnica y práctica de arquitectura. | Ingeniería de software |
+| **FerreSys** | Business system, OOP, and design patterns. | Java |
+| **Spring Microservices** | REST APIs, persistence, and service deployment. | Spring Boot · PostgreSQL · Docker · Render |
+| **Web Engineering** | Modern frontend and interface development. | HTML · CSS · JavaScript · React |
+| **DevPath Labs** | Technical experimentation and architecture practice. | Software engineering |
 
-## 🤖 IA & Criterio Profesional
+## 🤖 AI & Professional Judgment
 
-Uso la IA para aprender mejor, analizar opciones, automatizar tareas útiles y construir con más contexto.
+I use AI to learn faster, analyze options, automate useful tasks, and build with more context.
 
-**La validación, el criterio técnico y la responsabilidad sobre el software siguen siendo humanos.**
+**Validation, technical judgment, and responsibility for the software remain human work.**
 
-## 📊 Actividad en GitHub
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -95,7 +95,7 @@ Uso la IA para aprender mejor, analizar opciones, automatizar tareas útiles y c
 
 </div>
 
-## 📡 Redes DevPath
+## 📡 DevPath Network
 
 <div align="center">
 
@@ -147,6 +147,6 @@ Uso la IA para aprender mejor, analizar opciones, automatizar tareas útiles y c
 
 ## Chilete DevPath
 
-**Construyendo sistemas, software y disciplina.**
+**Building systems, software, and discipline.**
 
 </div>
