@@ -76,13 +76,13 @@ I use AI to learn faster, analyze options, automate useful tasks, and build with
 
 <img
   height="170"
-  src="https://github-readme-stats.vercel.app/api?username=chiletedevpath&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"
+  src="https://github-readme-stats-one-bice.vercel.app/api?username=chiletedevpath&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"
   alt="GitHub stats for Chilete DevPath"
 />
 
 <img
   height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiletedevpath&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"
+  src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=chiletedevpath&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"
   alt="Most used languages for Chilete DevPath"
 />
 
@@ -117,7 +117,7 @@ I use AI to learn faster, analyze options, automate useful tasks, and build with
 </td>
 <td align="center" width="100">
   <a href="https://www.linkedin.com/in/adrian-ivan-pisco-soto-857235194/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="38" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="38" alt="LinkedIn" />
   </a>
   <br>
   <sub><b>LinkedIn</b></sub>
