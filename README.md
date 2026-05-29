@@ -13,7 +13,7 @@ Estudiante de Ingenieria de Sistemas e Informatica
 
 Construyo mi camino como desarrollador documentando aprendizaje real, practica tecnica y proyectos academicos/profesionales en evolucion.
 
-<code>Java</code> · <code>Spring Boot</code> · <code>Frontend</code> · <code>Bases de Datos</code> · <code>Arquitectura</code>
+<code>Java</code> | <code>Spring Boot</code> | <code>Frontend</code> | <code>Bases de Datos</code> | <code>Arquitectura</code>
 
 </div>
 

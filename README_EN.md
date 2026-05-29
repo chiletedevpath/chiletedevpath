@@ -13,7 +13,7 @@ Systems and Computer Engineering Student
 
 I am building my path as a developer by documenting real learning, technical practice, and academic/professional projects in progress.
 
-<code>Java</code> · <code>Spring Boot</code> · <code>Frontend</code> · <code>Databases</code> · <code>Architecture</code>
+<code>Java</code> | <code>Spring Boot</code> | <code>Frontend</code> | <code>Databases</code> | <code>Architecture</code>
 
 </div>
 
