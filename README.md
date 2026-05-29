@@ -42,7 +42,6 @@ Chilete DevPath es mi marca personal y mi vitrina tecnica: un espacio para mostr
 | [learning-labs](https://github.com/chiletedevpath/learning-labs) | Laboratorio progresivo de aprendizaje, desde lo basico hasta temas avanzados. |
 | [academic-projects](https://github.com/chiletedevpath/academic-projects) | Evidencia academica organizada por institucion, curso y proyecto. |
 | [chilete-devpath](https://github.com/chiletedevpath/chilete-devpath) | Sitio web personal y base de mi portafolio profesional. |
-| [chiletedevpath-roadmap](https://github.com/chiletedevpath/chiletedevpath-roadmap) | Ruta de aprendizaje, objetivos, seguimiento y evolucion tecnica. |
 
 ## Proyectos Que Representan Mi Evolucion
 

@@ -42,7 +42,6 @@ Chilete DevPath is my personal brand and technical showcase: a space to show rea
 | [learning-labs](https://github.com/chiletedevpath/learning-labs) | Progressive learning lab, from basic concepts to advanced topics. |
 | [academic-projects](https://github.com/chiletedevpath/academic-projects) | Academic evidence organized by institution, course, and project. |
 | [chilete-devpath](https://github.com/chiletedevpath/chilete-devpath) | Personal website and foundation of my professional portfolio. |
-| [chiletedevpath-roadmap](https://github.com/chiletedevpath/chiletedevpath-roadmap) | Learning roadmap, goals, tracking, and technical evolution. |
 
 ## Projects That Show My Growth
 
