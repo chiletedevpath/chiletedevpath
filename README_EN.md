@@ -1,36 +1,59 @@
 <p align="center">
-  <a href="README.md">🇵🇪 Español</a> &nbsp;|&nbsp; 🇺🇸 English
+  <a href="README.md">Espanol</a> &nbsp;|&nbsp; English
 </p>
 
 <div align="center">
 
-<img src="./assets/banner.png" alt="Chilete DevPath engineering ecosystem banner" width="100%" />
+<img src="./assets/banner.png" alt="Chilete DevPath banner" width="100%" />
 
 # Chilete DevPath
 
-**Adrián Pisco**<br>
+**Adrian Pisco**  
 Systems and Computer Engineering Student
 
-**A personal ecosystem for learning, engineering, and software development.**
+I am building my path as a developer by documenting real learning, technical practice, and academic/professional projects in progress.
 
-<code>Backend</code> · <code>Architecture</code> · <code>Web Engineering</code> · <code>Technical discipline</code>
+<code>Java</code> · <code>Spring Boot</code> · <code>Frontend</code> · <code>Databases</code> · <code>Architecture</code>
 
 </div>
 
 ---
 
-## ⚡ Engineering Ecosystem
+## About Me
 
-Chilete DevPath documents my technical growth while I build a strong foundation for designing useful, maintainable, and well-structured software.
+I am a software development student at UTP. I also complement my education through Tecsup courses and self-directed learning. My current focus is building a strong foundation from logic, OOP, algorithms, and databases to backend, frontend, and design patterns.
 
-| Focus | Current practice |
+Chilete DevPath is my personal brand and technical showcase: a space to show real progress, organization, judgment, and continuous improvement.
+
+## Current Focus
+
+| Area | Current focus |
 |---|---|
-| **Engineering** | Fundamentals, modeling, patterns, and judgment for technical decisions. |
-| **Backend** | Java, Spring Boot, REST APIs, persistence, and systems-oriented design. |
-| **Frontend** | Clear web interfaces that turn technical solutions into usable products. |
-| **Growth** | Projects, continuous learning, and progressive architectural thinking. |
+| Fundamentals | Logic, pseudocode, variables, conditionals, loops, arrays, and OOP. |
+| Backend | Java, Spring Boot, REST APIs, persistence, validation, and layered architecture. |
+| Frontend | HTML, CSS, JavaScript, React, and web interface development. |
+| Databases | Modeling, SQL Server, MySQL, PostgreSQL, queries, and academic projects. |
+| Architecture | Design patterns, separation of concerns, and technical documentation. |
 
-## ⚙️ Technology Stack
+## Main Repositories
+
+| Repository | What it represents |
+|---|---|
+| [learning-labs](https://github.com/chiletedevpath/learning-labs) | Progressive learning lab, from basic concepts to advanced topics. |
+| [academic-projects](https://github.com/chiletedevpath/academic-projects) | Academic evidence organized by institution, course, and project. |
+| [chilete-devpath](https://github.com/chiletedevpath/chilete-devpath) | Personal website and foundation of my professional portfolio. |
+| [chiletedevpath-roadmap](https://github.com/chiletedevpath/chiletedevpath-roadmap) | Learning roadmap, goals, tracking, and technical evolution. |
+
+## Projects That Show My Growth
+
+| Project | Context | Main learning |
+|---|---|---|
+| Ferreteria Soto DB | Database I final project - UTP | Relational modeling, SQL scripts, sales, inventory, and auditing. |
+| Ferreteria Sys Patrones | Design patterns project - UTP | Applying principles and patterns to a familiar domain. |
+| ms-pedidos / ms-productos | Backend final exam - Tecsup | Spring Boot microservices, CRUD, validation, PostgreSQL, Docker, and Render. |
+| Chilete DevPath Website | Personal project | Professional identity, frontend, documentation, and personal branding. |
+
+## Stack In Progress
 
 <div align="center">
 
@@ -41,112 +64,26 @@ Chilete DevPath documents my technical growth while I build a strong foundation 
 
 </div>
 
-## 🧭 DevPath Route
-
-<div align="center">
+## Current Route
 
 ```txt
-Systems Engineering -> Backend -> Software Architecture -> Web Product
+Fundamentals -> OOP -> Algorithms -> Databases -> Backend -> Frontend -> Architecture -> Portfolio
 ```
 
-</div>
+My goal is not to fill GitHub with disconnected projects, but to build clear evidence of progress: every repository should have purpose, documentation, and a relationship with my professional growth.
 
-| Now | Next stretch |
-|---|---|
-| Java · Spring Boot · React · Docker · PostgreSQL | TypeScript · Node.js · Linux · AWS · Kubernetes |
+## Contact
 
-## 🛠 Featured Projects
-
-| Project | Engineering focus | Stack |
-|---|---|---|
-| **FerreSys** | Business system, OOP, and design patterns. | Java |
-| **Spring Microservices** | REST APIs, persistence, and service deployment. | Spring Boot · PostgreSQL · Docker · Render |
-| **Web Engineering** | Modern frontend and interface development. | HTML · CSS · JavaScript · React |
-| **DevPath Labs** | Technical experimentation and architecture practice. | Software engineering |
-
-## 🤖 AI & Professional Judgment
-
-I use AI to learn faster, analyze options, automate useful tasks, and build with more context.
-
-**Validation, technical judgment, and responsibility for the software remain human work.**
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img
-  height="170"
-  src="https://github-readme-stats-one-bice.vercel.app/api?username=chiletedevpath&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"
-  alt="GitHub stats for Chilete DevPath"
-/>
-
-<img
-  height="170"
-  src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=chiletedevpath&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"
-  alt="Most used languages for Chilete DevPath"
-/>
-
-<br>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chiletedevpath&theme=tokyonight"
-  alt="GitHub contribution summary for Chilete DevPath"
-/>
-
-</div>
-
-## 📡 DevPath Network
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="100">
-  <a href="https://chiletedevpath.github.io/chilete-devpath/">
-    <img src="https://cdn.simpleicons.org/githubpages/38BDF8" width="38" alt="Portfolio" />
-  </a>
-  <br>
-  <sub><b>Portfolio</b></sub>
-</td>
-<td align="center" width="100">
-  <a href="https://github.com/chiletedevpath">
-    <img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub" />
-  </a>
-  <br>
-  <sub><b>GitHub</b></sub>
-</td>
-<td align="center" width="100">
-  <a href="https://www.linkedin.com/in/adrian-ivan-pisco-soto-857235194/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="38" alt="LinkedIn" />
-  </a>
-  <br>
-  <sub><b>LinkedIn</b></sub>
-</td>
-<td align="center" width="100">
-  <a href="https://www.instagram.com/chiletedevpath/">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="38" alt="Instagram" />
-  </a>
-  <br>
-  <sub><b>Instagram</b></sub>
-</td>
-<td align="center" width="100">
-  <a href="mailto:chiletedevpath@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="38" alt="Email" />
-  </a>
-  <br>
-  <sub><b>Email</b></sub>
-</td>
-</tr>
-</table>
-
-</div>
+- Portfolio: https://chiletedevpath.github.io/chilete-devpath/
+- GitHub: https://github.com/chiletedevpath
+- LinkedIn: https://www.linkedin.com/in/adrian-ivan-pisco-soto-857235194/
+- Instagram: https://www.instagram.com/chiletedevpath/
+- Email: chiletedevpath@gmail.com
 
 ---
 
 <div align="center">
 
-## Chilete DevPath
-
-**Building systems, software, and discipline.**
+**Chilete DevPath: real learning, organized code, and documented progress.**
 
 </div>
