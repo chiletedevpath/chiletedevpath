@@ -1,8 +1,20 @@
-# Chilete DevPath
+<p align="center">
+  <img src="assets/portada-linkedin.png" alt="Chilete DevPath - Portada" width="100%" />
+</p>
+
+# Adrian Pisco | Chilete DevPath
 
 Ruta personal de aprendizaje en desarrollo de software.
 
-Soy estudiante de Ingenieria de Sistemas e Informatica. Este perfil registra mi avance paso a paso: fundamentos, practicas, proyectos academicos, colaboraciones y portafolio.
+Soy Adrian Pisco, estudiante de Ingenieria de Sistemas e Informatica. Chilete DevPath es mi marca personal para registrar mi avance paso a paso: fundamentos, practicas, proyectos academicos, colaboraciones y portafolio.
+
+
+## Redes y contacto
+
+| Red | Enlace |
+|---|---|
+| LinkedIn | [Adrian Pisco](https://www.linkedin.com/in/adrian-ivan-pisco-soto-857235194/) |
+| GitHub | [chiletedevpath](https://github.com/chiletedevpath) |
 
 ## En que estoy enfocado
 
