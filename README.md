@@ -11,10 +11,17 @@ Soy Adrian Pisco, estudiante de Ingenieria de Sistemas e Informatica. Chilete De
 
 ## Redes y contacto
 
-| Red | Enlace |
-|---|---|
-| LinkedIn | [Adrian Pisco](https://www.linkedin.com/in/adrian-ivan-pisco-soto-857235194/) |
-| GitHub | [chiletedevpath](https://github.com/chiletedevpath) |
+<p>
+  <a href="https://www.linkedin.com/in/adrian-pisco">
+    <img src="https://img.shields.io/badge/LinkedIn-Adrian%20Pisco-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Adrian Pisco" />
+  </a>
+  <a href="https://github.com/chiletedevpath">
+    <img src="https://img.shields.io/badge/GitHub-chiletedevpath-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - chiletedevpath" />
+  </a>
+</p>
+
+**Adrian Pisco** es mi identidad profesional como estudiante y futuro desarrollador.  
+**Chilete DevPath** es mi marca personal para documentar aprendizaje, proyectos, colaboraciones y evolucion tecnica.
 
 ## En que estoy enfocado
 
@@ -84,4 +91,4 @@ Estoy construyendo una base ordenada para que mi GitHub refleje aprendizaje real
 
 ## Siguiente objetivo
 
-Mejorar el portafolio visual y conectar los proyectos mas representativos con evidencias, capturas y explicaciones claras.
+Convertir **Chilete DevPath** en una web/marca que organice todo mi ecosistema de repositorios, y desarrollar mi portafolio personal como **Adrian Pisco**, donde se presenten mis proyectos mas representativos con evidencias, capturas y explicaciones claras.
