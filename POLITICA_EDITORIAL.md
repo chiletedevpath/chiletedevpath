@@ -10,6 +10,11 @@ Esta política aplica a todo el ecosistema:
 - `portafolio`
 - repositorios académicos y personales publicados bajo Chilete DevPath
 
+## Políticas complementarias
+
+- [Política de Uso Responsable de IA](POLITICA_USO_RESPONSABLE_IA.md)
+- [Política de Bienestar en el Aprendizaje Técnico](POLITICA_BIENESTAR_APRENDIZAJE.md)
+
 ## Principios
 
 - El contenido propio se identifica como material creado para Chilete DevPath.
@@ -53,7 +58,7 @@ Si el material fue adaptado, se presenta así:
 
 ## Uso de IA
 
-Cuando se use IA para apoyar una explicación, crear ejercicios o revisar redacción, el material debe aclarar que fue revisado y validado antes de publicarse.
+Cuando se use IA para apoyar una explicación, crear ejercicios o revisar redacción, el material debe aclarar que fue revisado y validado antes de publicarse. El criterio completo se define en la [Política de Uso Responsable de IA](POLITICA_USO_RESPONSABLE_IA.md).
 
 Formato usado:
 
