@@ -84,9 +84,13 @@ PSeInt
 - `aprendizaje` conserva ejercicios y practicas progresivas.
 - `colaboraciones` documenta proyectos externos sin apropiarse del historial de otros repositorios.
 - Los README se mantienen como documentos vivos: explican que es el proyecto, por que se hizo, tecnologias, ejecucion, aprendizajes y pendientes.
-- La [politica editorial](POLITICA_EDITORIAL.md) define como se documentan autoria, fuentes, uso de IA, material academico y colaboraciones.
-- La [politica de uso responsable de IA](POLITICA_USO_RESPONSABLE_IA.md) define como se usa IA sin reemplazar el aprendizaje real.
-- La [politica de bienestar](POLITICA_BIENESTAR_APRENDIZAJE.md) promueve pausas, descanso y cuidado fisico y mental durante el aprendizaje tecnico.
+- La [politica editorial](docs/politicas/POLITICA_EDITORIAL.md) define como se documentan autoria, fuentes, uso de IA, material academico y colaboraciones.
+- La [politica de uso responsable de IA](docs/politicas/POLITICA_USO_RESPONSABLE_IA.md) define como se usa IA sin reemplazar el aprendizaje real.
+- La [politica de bienestar](docs/politicas/POLITICA_BIENESTAR_APRENDIZAJE.md) promueve pausas, descanso y cuidado fisico y mental durante el aprendizaje tecnico.
+
+## Documentacion de marca
+
+Los recursos base para construir la web, el portafolio y la comunicacion de Chilete DevPath se organizan en [`docs`](docs/README.md).
 
 ## Estado actual
 

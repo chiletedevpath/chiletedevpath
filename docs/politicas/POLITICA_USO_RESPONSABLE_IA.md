@@ -7,8 +7,8 @@
 | Estado | Vigente |
 | Responsable | Adrian Pisco, fundador de Chilete DevPath |
 | Ámbito | Ecosistema Chilete DevPath |
-| Fecha de emisión | 2026-06-05 |
-| Próxima revisión | 2026-12-05 |
+| Fecha de emisión | 05/06/2026 |
+| Próxima revisión | 05/12/2026 |
 
 ## 1. Objetivo
 
@@ -140,4 +140,4 @@ Esta política debe revisarse cada seis meses o cuando cambien las herramientas,
 
 | Versión | Fecha | Cambio | Responsable |
 |---|---|---|---|
-| 1.0 | 2026-06-05 | Emisión inicial de la política de uso responsable de IA. | Adrian Pisco |
+| 1.0 | 05/06/2026 | Emisión inicial de la política de uso responsable de IA. | Adrian Pisco |
