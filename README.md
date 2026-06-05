@@ -84,6 +84,7 @@ PSeInt
 - `aprendizaje` conserva ejercicios y practicas progresivas.
 - `colaboraciones` documenta proyectos externos sin apropiarse del historial de otros repositorios.
 - Los README se mantienen como documentos vivos: explican que es el proyecto, por que se hizo, tecnologias, ejecucion, aprendizajes y pendientes.
+- La [politica editorial](POLITICA_EDITORIAL.md) define como se documentan autoria, fuentes, uso de IA, material academico y colaboraciones.
 
 ## Estado actual
 
