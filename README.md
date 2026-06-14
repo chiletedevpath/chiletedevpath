@@ -4,9 +4,11 @@
 
 # Adrian Pisco | Chilete DevPath
 
-Ruta personal de aprendizaje en desarrollo de software.
+Marca personal y ecosistema de aprendizaje de Adrian Pisco como desarrollador Full Stack en formacion y futuro ingeniero de sistemas.
 
-Soy Adrian Pisco, estudiante de Ingenieria de Sistemas e Informatica. Chilete DevPath es mi marca personal para registrar mi avance paso a paso: fundamentos, practicas, proyectos academicos, colaboraciones y portafolio.
+Soy Adrian Pisco, estudiante de Ingenieria de Sistemas e Informatica. Chilete DevPath organiza mi avance tecnico, mis proyectos academicos, mis colaboraciones, mis practicas y los recursos que preparo para compartir con una comunidad interesada en aprender desarrollo de software de forma ordenada.
+
+Este espacio no es solo un registro personal. Tambien es la base documental de una futura web de marca, donde el contenido de aprendizaje, las politicas de trabajo, los proyectos y el portafolio puedan consultarse de manera mas clara y accesible.
 
 
 ## Redes y contacto
@@ -20,25 +22,32 @@ Soy Adrian Pisco, estudiante de Ingenieria de Sistemas e Informatica. Chilete De
   </a>
 </p>
 
-**Adrian Pisco** es mi identidad profesional como estudiante y futuro desarrollador.  
-**Chilete DevPath** es mi marca personal para documentar aprendizaje, proyectos, colaboraciones y evolucion tecnica.
+**Adrian Pisco** es mi identidad profesional como estudiante y futuro desarrollador Full Stack.  
+**Chilete DevPath** es mi marca personal para construir una ruta publica de aprendizaje, evidencia tecnica, criterio profesional y aporte progresivo a la comunidad.
+
+## Que es Chilete DevPath
+
+Chilete DevPath es un ecosistema personal de desarrollo profesional. Conecta mi aprendizaje diario, mis entregas academicas, mis practicas tecnicas, mis colaboraciones y mi futuro portafolio bajo una misma linea de marca.
+
+Su proposito es mostrar evolucion real: desde fundamentos y ejercicios guiados hasta proyectos mas completos, buenas practicas, documentacion tecnica y recursos utiles para otros estudiantes.
 
 ## En que estoy enfocado
 
-- Fortalecer bases de programacion y pensamiento logico.
-- Construir proyectos academicos bien documentados.
-- Practicar backend con Java, Spring Boot y bases de datos.
-- Mejorar frontend con HTML, CSS, JavaScript y React.
-- Ordenar mi aprendizaje como evidencia profesional.
+- Fortalecer fundamentos de programacion, pensamiento logico, algoritmos y POO.
+- Practicar desarrollo web con HTML, CSS, JavaScript, PHP, React y Vite.
+- Fortalecer backend con Java, Spring Boot y bases de datos relacionales.
+- Organizar proyectos academicos con contexto, alcance y evidencia tecnica.
+- Preparar contenido claro para estudiantes y comunidad.
+- Construir evidencia publica de aprendizaje, criterio y mejora continua.
 
 ## Como esta organizado este GitHub
 
 | Repositorio | Proposito |
 |---|---|
-| [aprendizaje](https://github.com/chiletedevpath/aprendizaje) | Ejercicios, apuntes y practicas desde lo basico hasta temas mas avanzados. |
-| [academia](https://github.com/chiletedevpath/academia) | Mapa academico de cursos, ciclos y proyectos por institucion. |
-| [colaboraciones](https://github.com/chiletedevpath/colaboraciones) | Registro de proyectos colaborativos y repositorios externos donde participo. |
-| [portafolio](https://github.com/chiletedevpath/portafolio) | Seleccion de proyectos y base del sitio web personal. |
+| [aprendizaje](https://github.com/chiletedevpath/aprendizaje) | Ruta progresiva de fundamentos, ejercicios, laboratorios y practicas tecnicas. |
+| [academia](https://github.com/chiletedevpath/academia) | Indice de proyectos academicos publicados con contexto y enlaces de referencia. |
+| [colaboraciones](https://github.com/chiletedevpath/colaboraciones) | Registro de participaciones en proyectos colaborativos y trabajos en equipo. |
+| [portafolio](https://github.com/chiletedevpath/portafolio) | Espacio reservado para seleccionar, mas adelante, proyectos con valor profesional. |
 
 ## Proyectos destacados
 
@@ -71,6 +80,7 @@ T-SQL
 HTML
 CSS
 JavaScript
+PHP
 React
 Vite
 Git y GitHub
@@ -94,8 +104,8 @@ Los recursos base para construir la web, el portafolio y la comunicacion de Chil
 
 ## Estado actual
 
-Estoy construyendo una base ordenada para que mi GitHub refleje aprendizaje real, proyectos academicos y progreso tecnico continuo.
+Estoy construyendo una base ordenada para que mi GitHub refleje aprendizaje real, proyectos academicos, progreso tecnico continuo y una identidad profesional coherente.
 
 ## Siguiente objetivo
 
-Convertir **Chilete DevPath** en una web/marca que organice todo mi ecosistema de repositorios, y desarrollar mi portafolio personal como **Adrian Pisco**, donde se presenten mis proyectos mas representativos con evidencias, capturas y explicaciones claras.
+Seguir fortaleciendo la ruta de aprendizaje, documentar los proyectos academicos con mejor criterio y preparar la base de contenido que luego alimentara la web y el portafolio de Chilete DevPath.
