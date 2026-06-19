@@ -7,6 +7,8 @@ Su objetivo es servir como fuente para construir la futura web de la marca, el p
 ## Estructura
 
 - `politicas/`: politicas formales de Chilete DevPath sobre contenido, IA responsable, bienestar y seguridad.
+- `publicacion/`: criterios operativos para decidir que contenido puede pasar del ecosistema GitHub a la futura web.
+- `../assets/`: recursos visuales propios de marca, fotografias autorizadas y capturas de referencia.
 
 ## Uso
 

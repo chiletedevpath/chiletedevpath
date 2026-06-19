@@ -1,0 +1,30 @@
+# Publicacion Segura
+
+Esta carpeta organiza los criterios operativos para decidir que contenido de Chilete DevPath puede pasar del ecosistema GitHub a la futura web de marca.
+
+## Documentos
+
+| Documento | Proposito |
+|---|---|
+| [Checklist de Publicacion Segura](CHECKLIST_PUBLICACION_SEGURA.md) | Lista de verificacion antes de publicar contenido, imagenes, proyectos o recursos para comunidad. |
+| [Matriz de Contenido para la Web](MATRIZ_CONTENIDO_WEB.md) | Clasificacion inicial de repositorios y secciones segun su nivel de preparacion para la web. |
+
+## Auditorias registradas
+
+| Contenido | Decision |
+|---|---|
+| [aprendizaje/00-fundamentos](auditorias/aprendizaje-00-fundamentos.md) | Publicable para web |
+| [aprendizaje/01-pseudocodigo](auditorias/aprendizaje-01-pseudocodigo.md) | Publicable con ajustes |
+| [aprendizaje/02-programacion-basica](auditorias/aprendizaje-02-programacion-basica.md) | Saneado con ajustes editoriales pendientes |
+| [aprendizaje/03-poo](auditorias/aprendizaje-03-poo.md) | Saneado con ajustes editoriales pendientes |
+| [aprendizaje/04-estructuras-datos](auditorias/aprendizaje-04-estructuras-datos.md) | Publicable con ajustes menores |
+| [aprendizaje/05-algoritmos](auditorias/aprendizaje-05-algoritmos.md) | Saneado con ajustes editoriales pendientes |
+| [aprendizaje/06-bases-de-datos](auditorias/aprendizaje-06-bases-de-datos.md) | Saneado con ajustes editoriales pendientes |
+| [aprendizaje/07-desarrollo-web](auditorias/aprendizaje-07-desarrollo-web.md) | Saneado con ajustes editoriales pendientes |
+| [aprendizaje/08-patrones](auditorias/aprendizaje-08-patrones.md) | Saneado parcial; no publicar evaluaciones como bloque |
+| [aprendizaje/09-backend](auditorias/aprendizaje-09-backend.md) | Saneado en archivos actuales; requiere control de historial |
+| [aprendizaje/10-frontend](auditorias/aprendizaje-10-frontend.md) | En espera |
+
+## Uso recomendado
+
+Antes de mover un contenido a la web, debe revisarse con el checklist y registrarse su decision en la matriz o en el documento especifico del modulo evaluado.

@@ -10,6 +10,11 @@ Esta carpeta contiene las politicas formales que guian la publicacion de conteni
 | CDP-POL-002 | [Politica de Uso Responsable de IA](POLITICA_USO_RESPONSABLE_IA.md) | 1.0 | Vigente |
 | CDP-POL-003 | [Politica de Bienestar en el Aprendizaje Tecnico](POLITICA_BIENESTAR_APRENDIZAJE.md) | 1.0 | Vigente |
 
+## Documentos operativos relacionados
+
+- [Checklist de Publicacion Segura](../publicacion/CHECKLIST_PUBLICACION_SEGURA.md)
+- [Matriz de Contenido para la Web](../publicacion/MATRIZ_CONTENIDO_WEB.md)
+
 ## Formato de fechas
 
 Las politicas usan el formato peruano `dd/mm/aaaa`.
