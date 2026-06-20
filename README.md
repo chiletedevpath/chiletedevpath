@@ -4,14 +4,13 @@
 
 # Adrian Pisco | Chilete DevPath
 
-Marca personal y ecosistema de aprendizaje de Adrian Pisco como desarrollador Full Stack en formacion y futuro ingeniero de sistemas.
+Soy **Adrian Pisco**, estudiante de **Ingenieria de Sistemas e Informatica** y desarrollador Full Stack en formacion.
 
-Soy Adrian Pisco, estudiante de Ingenieria de Sistemas e Informatica. Chilete DevPath organiza mi avance tecnico, mis proyectos academicos, mis practicas y los recursos que preparo para compartir con una comunidad interesada en aprender desarrollo de software de forma ordenada.
+**Chilete DevPath** es mi marca personal y ecosistema de aprendizaje: un espacio donde organizo mi avance tecnico, mis proyectos academicos, mis practicas y los recursos que voy preparando para una futura comunidad de estudiantes y desarrolladores.
 
-Este espacio no es solo un registro personal. Tambien es la base documental de una futura web de marca, donde el contenido de aprendizaje, las politicas de trabajo, los proyectos y el portafolio puedan consultarse de manera mas clara y accesible.
+Mi objetivo es construir una ruta publica, ordenada y honesta de evolucion profesional: desde fundamentos y ejercicios guiados hasta proyectos mas completos, documentacion tecnica, buenas practicas y una futura web de marca.
 
-
-## Redes y contacto
+## Contacto
 
 <p>
   <a href="https://www.linkedin.com/in/adrian-pisco">
@@ -22,52 +21,29 @@ Este espacio no es solo un registro personal. Tambien es la base documental de u
   </a>
 </p>
 
-**Adrian Pisco** es mi identidad profesional como estudiante y futuro desarrollador Full Stack.  
-**Chilete DevPath** es mi marca personal para construir una ruta publica de aprendizaje, evidencia tecnica, criterio profesional y aporte progresivo a la comunidad.
+## Que estoy construyendo
 
-## Que es Chilete DevPath
+Chilete DevPath no es solo un repositorio de apuntes. Es la base de una marca tecnica que busca mostrar aprendizaje real, criterio profesional y contenido reutilizable para la comunidad.
 
-Chilete DevPath es un ecosistema personal de desarrollo profesional. Conecta mi aprendizaje diario, mis entregas academicas, mis practicas tecnicas y mi futuro portafolio bajo una misma linea de marca.
+Actualmente estoy trabajando en:
 
-Su proposito es mostrar evolucion real: desde fundamentos y ejercicios guiados hasta proyectos mas completos, buenas practicas, documentacion tecnica y recursos utiles para otros estudiantes.
+- fortalecer fundamentos de programacion, algoritmos, POO y estructuras de datos;
+- practicar desarrollo web con HTML, CSS, JavaScript, PHP, React y Vite;
+- reforzar backend con Java, Spring Boot y bases de datos relacionales;
+- organizar proyectos academicos con contexto, alcance y evidencia tecnica;
+- preparar recursos educativos propios para una futura web de Chilete DevPath;
+- construir un portafolio profesional cuando los proyectos tengan el nivel adecuado.
 
-## En que estoy enfocado
+## Ecosistema principal
 
-- Fortalecer fundamentos de programacion, pensamiento logico, algoritmos y POO.
-- Practicar desarrollo web con HTML, CSS, JavaScript, PHP, React y Vite.
-- Fortalecer backend con Java, Spring Boot y bases de datos relacionales.
-- Organizar proyectos academicos con contexto, alcance y evidencia tecnica.
-- Preparar contenido claro para estudiantes y comunidad.
-- Construir evidencia publica de aprendizaje, criterio y mejora continua.
-
-## Como esta organizado este GitHub
-
-| Repositorio | Proposito |
+| Repositorio | Funcion dentro de Chilete DevPath |
 |---|---|
-| [aprendizaje](https://github.com/chiletedevpath/aprendizaje) | Ruta progresiva de fundamentos, ejercicios, laboratorios y practicas tecnicas. |
-| [academia](https://github.com/chiletedevpath/academia) | Indice y contenedor de proyectos academicos con contexto y enlaces de referencia. |
-| [portafolio](https://github.com/chiletedevpath/portafolio) | Espacio reservado para seleccionar, mas adelante, proyectos con valor profesional. |
+| [aprendizaje](https://github.com/chiletedevpath/aprendizaje) | Ruta progresiva de ejercicios, laboratorios, fundamentos y practicas tecnicas. |
+| [academia](https://github.com/chiletedevpath/academia) | Organizacion de proyectos academicos, entregas y evidencias de aprendizaje. |
+| [portafolio](https://github.com/chiletedevpath/portafolio) | Espacio en preparacion para futuros proyectos con valor profesional. |
+| [chiletedevpath](https://github.com/chiletedevpath/chiletedevpath) | Base documental de marca, politicas, criterios editoriales y futura web. |
 
-## Proyectos academicos registrados
-
-### UTP
-
-| Curso | Proyecto | Tecnologias principales |
-|---|---|---|
-| Base de Datos II | [La Lucha BD Backend](https://github.com/chiletedevpath/utp-la-lucha-bd-backend) | Java, Spring Boot, PostgreSQL, SQL |
-| Algoritmos y Estructuras de Datos | [Clinica Salud Vital](https://github.com/chiletedevpath/utp-clinica-salud-vital) | Java, POO, estructuras de datos |
-| Base de Datos I | `academia/utp/ciclo-04/base-de-datos-i/ferreteria-soto-db` | SQL Server, T-SQL, procedimientos, triggers |
-| Patrones de Diseno | [Ferreteria Sys Patrones](https://github.com/chiletedevpath/utp-ferreteria-sys-patrones) | Java, POO, modelado por dominio |
-
-### Tecsup
-
-| Curso | Proyecto agrupado | Tecnologias principales |
-|---|---|---|
-| Fullstack con Java | `academia/tecsup/cursos/fullstack-con-java/proyectos/backend-final-exam` | Java, Spring Boot, PostgreSQL, microservicios |
-| Fullstack con Java | `academia/tecsup/cursos/fullstack-con-java/proyectos/sunat-consulta` | Java, Spring Boot, OpenFeign, H2 |
-| Fullstack con Java | `academia/tecsup/cursos/fullstack-con-java/proyectos/crud-react-productos` | React, Vite, JavaScript, Fetch API |
-
-## Tecnologias en practica
+## Linea tecnica actual
 
 ```txt
 Java
@@ -85,25 +61,31 @@ Git y GitHub
 PSeInt
 ```
 
-## Forma de trabajo
+## Criterio de publicacion
 
-- Cada proyecto importante vive en su propio repositorio.
-- `academia` funciona como indice academico y conserva trabajos entregados que no necesitan repositorio remoto independiente.
-- `aprendizaje` conserva ejercicios y practicas progresivas.
-- Las colaboraciones se tratan con criterio editorial y no se publican como repositorio propio si pertenecen a equipos, companeros o repositorios externos.
-- Los README se mantienen como documentos vivos: explican que es el proyecto, por que se hizo, tecnologias, ejecucion, aprendizajes y pendientes.
-- La [politica editorial](docs/politicas/POLITICA_EDITORIAL.md) define como se documentan autoria, fuentes, uso de IA, material academico y colaboraciones.
-- La [politica de uso responsable de IA](docs/politicas/POLITICA_USO_RESPONSABLE_IA.md) define como se usa IA sin reemplazar el aprendizaje real.
-- La [politica de bienestar](docs/politicas/POLITICA_BIENESTAR_APRENDIZAJE.md) promueve pausas, descanso y cuidado fisico y mental durante el aprendizaje tecnico.
+No todo lo que practico se convierte automaticamente en contenido publico destacado.
 
-## Documentacion de marca
+Antes de llevar un material a la web o al portafolio, reviso:
 
-Los recursos base para construir la web, el portafolio y la comunicacion de Chilete DevPath se organizan en [`docs`](docs/README.md).
+- autoria y fuentes;
+- uso responsable de IA;
+- privacidad y datos de ejemplo;
+- marcas, imagenes y recursos externos;
+- diferencia entre practica, proyecto academico y proyecto profesional;
+- valor real para una persona que esta aprendiendo.
 
-## Estado actual
+Las politicas base estan en:
 
-Estoy construyendo una base ordenada para que mi GitHub refleje aprendizaje real, proyectos academicos, progreso tecnico continuo y una identidad profesional coherente.
+- [Politica Editorial](docs/politicas/POLITICA_EDITORIAL.md)
+- [Politica de Uso Responsable de IA](docs/politicas/POLITICA_USO_RESPONSABLE_IA.md)
+- [Politica de Bienestar en el Aprendizaje Tecnico](docs/politicas/POLITICA_BIENESTAR_APRENDIZAJE.md)
 
-## Siguiente objetivo
+## Proposito
 
-Seguir fortaleciendo la ruta de aprendizaje, documentar los proyectos academicos con mejor criterio y preparar la base de contenido que luego alimentara la web y el portafolio de Chilete DevPath.
+Estoy construyendo Chilete DevPath paso a paso para que mi GitHub refleje tres cosas:
+
+1. aprendizaje real;
+2. criterio tecnico;
+3. evolucion profesional verificable.
+
+La siguiente etapa es seguir ordenando contenido, seleccionar materiales seguros para la futura web y convertir los mejores aprendizajes en recursos claros para comunidad.
