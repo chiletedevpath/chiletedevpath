@@ -4,7 +4,7 @@
 |---|---|
 | Codigo | CDP-AUD-APR-008 |
 | Version | 1.0 |
-| Estado | Saneado parcial; no publicar evaluaciones como bloque |
+| Estado | Alineado para GitHub; no publicar evaluaciones como bloque |
 | Fecha | 19/06/2026 |
 | Responsable | Adrian Pisco, fundador de Chilete DevPath |
 | Revision tecnica | Chilete DevPath |
@@ -23,26 +23,35 @@ Se reviso la carpeta `aprendizaje/08-patrones`, incluyendo:
 | Criterio | Resultado |
 |---|---|
 | Material privado de UTP, Tecsup, docente o evaluacion | Riesgo alto por `evaluaciones`, `pc2` y `practica_calificada` |
-| Datos personales de terceros | Riesgo bajo por correos de ejemplo |
+| Datos personales de terceros | No detectado; los correos revisados son de ejemplo |
 | Imagenes, marcas, logos o personajes de terceros | No detectado como recurso visual |
 | Credenciales, tokens o rutas sensibles | No detectado; menciones de Maven Wrapper no son credenciales reales |
-| Fuentes externas pendientes | Requiere contexto y autoria |
-| Uso de IA declarado | No aplica en codigo; falta nota general si se documenta para web |
-| Enfoque comunitario | Parcial |
-| Alineacion con politicas de Chilete DevPath | Requiere ajustes fuertes |
+| Fuentes externas pendientes | No detectado, pero debe documentarse si se adapta contenido futuro |
+| Uso de IA declarado | No aplica en codigo; documentar si se convierte en guia web |
+| Enfoque comunitario | Alineado para GitHub |
+| Alineacion con politicas de Chilete DevPath | Alineado para GitHub con restriccion sobre evaluaciones |
 
 ## 3. Hallazgos
 
 La seccion tiene alto valor tecnico porque contiene principios SOLID, patrones creacionales, estructurales, ejemplos Java, ejemplos Spring Boot y practicas integradas.
 
-No debe pasar a la web como bloque completo por ahora porque:
+No debe pasar a la web como bloque completo porque:
 
 - existe una carpeta `evaluaciones` con `pc2-design-patterns` y `practica_calificada`;
 - algunos README tienen seccion `Enunciado`;
 - hay paquetes `edu.pe.utp`, lo que confirma contexto academico;
 - hay correos de ejemplo que deben neutralizarse;
-- el README principal menciona carpetas en ingles (`solid-principles`, `creational`, `structural`, `integrated-practice`, `assessments`) que no coinciden con la estructura real;
 - las evaluaciones no deben publicarse como banco abierto de preguntas/respuestas sin adaptacion.
+
+Se mejoro:
+
+- README principal;
+- README de `creacionales`;
+- README de `estructurales`;
+- README de `principios-solid`;
+- README de `practica-integrada`;
+- README de `evaluaciones`;
+- separacion explicita entre contenido general y evaluaciones academicas.
 
 ## 4. Decision
 
@@ -64,18 +73,19 @@ Para la futura web debe dividirse:
 ## 6. Contenido que requiere ajuste antes de web
 
 - Carpeta `evaluaciones`.
-- README con `Enunciado`.
+- README con `Enunciado`, si se convierten en material publico.
 - Paquetes o referencias `edu.pe.utp`, si se presentan como material general.
-- Correos de ejemplo.
-- README principal por desalineacion de nombres.
+- Casos que provengan de practica calificada o PC.
 
 ## 7. Saneamiento aplicado
 
-Se aplicaron mejoras iniciales:
+Se aplicaron mejoras:
 
 - README principal alineado con nombres reales de carpetas;
 - correos, nombres personales y marca comercial detectada reemplazados por datos ficticios;
 - ejemplos mantienen su objetivo tecnico sin exponer datos reales.
+- README contenedores agregados para `principios-solid`, `practica-integrada` y `evaluaciones`.
+- validacion `javac` correcta para `practica-integrada` desde la raiz del paquete.
 
 La carpeta `evaluaciones` sigue sin ser recomendable para la web como bloque completo. Debe adaptarse a casos propios de Chilete DevPath antes de publicarse como recurso comunitario.
 
@@ -83,7 +93,7 @@ La carpeta `evaluaciones` sigue sin ser recomendable para la web como bloque com
 
 | Estado | Decision |
 |---|---|
-| Publicable | No como bloque completo |
-| Requiere ajustes previos | Si |
-| Mantener solo en GitHub | Si, por ahora |
+| Publicable | Si, para GitHub |
+| Requiere ajustes previos | Si, para version web |
+| Mantener solo en GitHub | Evaluaciones completas |
 | No publicar | Evaluaciones completas sin adaptacion |
