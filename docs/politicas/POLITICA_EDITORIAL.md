@@ -20,7 +20,7 @@ Esta política aplica a:
 
 - `aprendizaje`
 - `academia`
-- `colaboraciones`
+- participaciones colaborativas documentadas dentro del contexto correspondiente
 - `portafolio`
 - repositorios académicos, personales y formativos publicados bajo Chilete DevPath
 - guías, ejercicios, laboratorios, soluciones, fichas, documentación técnica y materiales de apoyo

@@ -6,7 +6,7 @@
 
 Marca personal y ecosistema de aprendizaje de Adrian Pisco como desarrollador Full Stack en formacion y futuro ingeniero de sistemas.
 
-Soy Adrian Pisco, estudiante de Ingenieria de Sistemas e Informatica. Chilete DevPath organiza mi avance tecnico, mis proyectos academicos, mis colaboraciones, mis practicas y los recursos que preparo para compartir con una comunidad interesada en aprender desarrollo de software de forma ordenada.
+Soy Adrian Pisco, estudiante de Ingenieria de Sistemas e Informatica. Chilete DevPath organiza mi avance tecnico, mis proyectos academicos, mis practicas y los recursos que preparo para compartir con una comunidad interesada en aprender desarrollo de software de forma ordenada.
 
 Este espacio no es solo un registro personal. Tambien es la base documental de una futura web de marca, donde el contenido de aprendizaje, las politicas de trabajo, los proyectos y el portafolio puedan consultarse de manera mas clara y accesible.
 
@@ -27,7 +27,7 @@ Este espacio no es solo un registro personal. Tambien es la base documental de u
 
 ## Que es Chilete DevPath
 
-Chilete DevPath es un ecosistema personal de desarrollo profesional. Conecta mi aprendizaje diario, mis entregas academicas, mis practicas tecnicas, mis colaboraciones y mi futuro portafolio bajo una misma linea de marca.
+Chilete DevPath es un ecosistema personal de desarrollo profesional. Conecta mi aprendizaje diario, mis entregas academicas, mis practicas tecnicas y mi futuro portafolio bajo una misma linea de marca.
 
 Su proposito es mostrar evolucion real: desde fundamentos y ejercicios guiados hasta proyectos mas completos, buenas practicas, documentacion tecnica y recursos utiles para otros estudiantes.
 
@@ -46,7 +46,6 @@ Su proposito es mostrar evolucion real: desde fundamentos y ejercicios guiados h
 |---|---|
 | [aprendizaje](https://github.com/chiletedevpath/aprendizaje) | Ruta progresiva de fundamentos, ejercicios, laboratorios y practicas tecnicas. |
 | [academia](https://github.com/chiletedevpath/academia) | Indice y contenedor de proyectos academicos con contexto y enlaces de referencia. |
-| [colaboraciones](https://github.com/chiletedevpath/colaboraciones) | Registro de participaciones en proyectos colaborativos y trabajos en equipo. |
 | [portafolio](https://github.com/chiletedevpath/portafolio) | Espacio reservado para seleccionar, mas adelante, proyectos con valor profesional. |
 
 ## Proyectos academicos registrados
@@ -91,7 +90,7 @@ PSeInt
 - Cada proyecto importante vive en su propio repositorio.
 - `academia` funciona como indice academico y conserva trabajos entregados que no necesitan repositorio remoto independiente.
 - `aprendizaje` conserva ejercicios y practicas progresivas.
-- `colaboraciones` documenta proyectos externos sin apropiarse del historial de otros repositorios.
+- Las colaboraciones se tratan con criterio editorial y no se publican como repositorio propio si pertenecen a equipos, companeros o repositorios externos.
 - Los README se mantienen como documentos vivos: explican que es el proyecto, por que se hizo, tecnologias, ejecucion, aprendizajes y pendientes.
 - La [politica editorial](docs/politicas/POLITICA_EDITORIAL.md) define como se documentan autoria, fuentes, uso de IA, material academico y colaboraciones.
 - La [politica de uso responsable de IA](docs/politicas/POLITICA_USO_RESPONSABLE_IA.md) define como se usa IA sin reemplazar el aprendizaje real.

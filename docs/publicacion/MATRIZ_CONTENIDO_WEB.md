@@ -14,7 +14,6 @@ La web debe priorizar contenido propio, educativo, claro y seguro. Los proyectos
 | `aprendizaje` | Publicable con ajustes | Si, por secciones revisadas | Es la ruta educativa principal, pero cada carpeta debe pasar por el checklist antes de convertirse en recurso web. |
 | `academia` | Publicable con ajustes | Si, como indice y seccion academica | Debe mostrar proyectos academicos con contexto, sin material privado ni datos personales innecesarios. |
 | `portafolio` | En espera | No todavia | Aun no se han elegido proyectos finales de portafolio. |
-| `colaboraciones` | Solo GitHub | No por ahora | Debe documentar participaciones sin apropiarse de proyectos externos. |
 
 ## Proyectos UTP
 
@@ -52,7 +51,7 @@ La web debe priorizar contenido propio, educativo, claro y seguro. Los proyectos
 
 ## Regla para La Lucha y colaboraciones
 
-Los proyectos vinculados a La Lucha y los proyectos colaborativos no deben formar parte de la web principal hasta revisar:
+Los proyectos vinculados a La Lucha y los proyectos colaborativos no deben formar parte de la web principal ni tener repositorio propio de marca hasta revisar:
 
 - autoria real;
 - permisos del equipo;
