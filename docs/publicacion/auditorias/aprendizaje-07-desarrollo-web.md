@@ -41,6 +41,7 @@ Se mejoro:
 - glosario PHP;
 - README de formularios PHP;
 - README de ciclos y arreglos en PHP;
+- CRUD PHP con MySQL documentado como practica local;
 - texto visible de `flexbox-studio`;
 - separacion conceptual entre desarrollo web base y frontend moderno.
 
@@ -63,6 +64,7 @@ Para la futura web debe usarse por partes, seleccionando ejercicios y convirtien
 - Validacion local de PHP con un entorno como XAMPP, Laragon o PHP CLI.
 - Capturas o resultados esperados para las practicas visuales.
 - Enunciados redactados con palabras propias si se convierten en recursos publicos.
+- Revision de dependencias externas por CDN si se publica el CRUD como guia.
 
 ## 7. Saneamiento aplicado
 
@@ -74,6 +76,8 @@ Se neutralizaron los riesgos principales en archivos actuales:
 - se eliminaron carpetas de imagenes que quedaron vacias.
 
 Se reforzaron los README de modulo, se normalizo documentacion PHP y se limpio texto visible de practica UI.
+
+Se agrego `php/03-crud-bd` como practica documentada, con conexion por variables de entorno y script `database.sql`.
 
 No se pudo ejecutar `php -l` porque PHP no esta disponible en el PATH del entorno actual.
 
