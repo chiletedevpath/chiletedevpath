@@ -45,8 +45,7 @@ Su proposito es mostrar evolucion real: desde fundamentos y ejercicios guiados h
 | Repositorio | Proposito |
 |---|---|
 | [aprendizaje](https://github.com/chiletedevpath/aprendizaje) | Ruta progresiva de fundamentos, ejercicios, laboratorios y practicas tecnicas. |
-| [academia](https://github.com/chiletedevpath/academia) | Indice de proyectos academicos publicados con contexto y enlaces de referencia. |
-| proyectos | Contenedor de trabajos academicos, formativos y personales que no requieren repositorio remoto propio. |
+| [academia](https://github.com/chiletedevpath/academia) | Indice y contenedor de proyectos academicos con contexto y enlaces de referencia. |
 | [colaboraciones](https://github.com/chiletedevpath/colaboraciones) | Registro de participaciones en proyectos colaborativos y trabajos en equipo. |
 | [portafolio](https://github.com/chiletedevpath/portafolio) | Espacio reservado para seleccionar, mas adelante, proyectos con valor profesional. |
 
@@ -65,10 +64,10 @@ Su proposito es mostrar evolucion real: desde fundamentos y ejercicios guiados h
 
 | Curso | Proyecto agrupado | Tecnologias principales |
 |---|---|---|
-| Fullstack con Java | `proyectos/tecsup/fullstack-con-java/backend-final-exam` | Java, Spring Boot, PostgreSQL, microservicios |
-| Fullstack con Java | `proyectos/tecsup/fullstack-con-java/sunat-consulta` | Java, Spring Boot, OpenFeign, H2 |
-| Fullstack con Java | `proyectos/tecsup/fullstack-con-java/crud-react-productos` | React, Vite, JavaScript, Fetch API |
-| Fullstack con Java | `proyectos/tecsup/fullstack-con-java/frontend-retos` | HTML, CSS, JavaScript |
+| Fullstack con Java | `academia/tecsup/cursos/fullstack-con-java/proyectos/backend-final-exam` | Java, Spring Boot, PostgreSQL, microservicios |
+| Fullstack con Java | `academia/tecsup/cursos/fullstack-con-java/proyectos/sunat-consulta` | Java, Spring Boot, OpenFeign, H2 |
+| Fullstack con Java | `academia/tecsup/cursos/fullstack-con-java/proyectos/crud-react-productos` | React, Vite, JavaScript, Fetch API |
+| Fullstack con Java | `academia/tecsup/cursos/fullstack-con-java/proyectos/frontend-retos` | HTML, CSS, JavaScript |
 
 ## Tecnologias en practica
 
@@ -91,8 +90,7 @@ PSeInt
 ## Forma de trabajo
 
 - Cada proyecto importante vive en su propio repositorio.
-- `academia` funciona como indice, no como contenedor de codigo duplicado.
-- `proyectos` agrupa trabajos entregados o formativos que no necesitan repositorio remoto independiente.
+- `academia` funciona como indice academico y conserva trabajos entregados que no necesitan repositorio remoto independiente.
 - `aprendizaje` conserva ejercicios y practicas progresivas.
 - `colaboraciones` documenta proyectos externos sin apropiarse del historial de otros repositorios.
 - Los README se mantienen como documentos vivos: explican que es el proyecto, por que se hizo, tecnologias, ejecucion, aprendizajes y pendientes.

@@ -12,8 +12,7 @@ La web debe priorizar contenido propio, educativo, claro y seguro. Los proyectos
 |---|---|---|---|
 | `chiletedevpath` | Publicable | Si | Es la base de marca, politicas, identidad y futura documentacion web. |
 | `aprendizaje` | Publicable con ajustes | Si, por secciones revisadas | Es la ruta educativa principal, pero cada carpeta debe pasar por el checklist antes de convertirse en recurso web. |
-| `academia` | Publicable con ajustes | Si, como indice | Debe mostrar proyectos academicos con contexto, sin material privado ni datos personales innecesarios. |
-| `proyectos` | Publicable con ajustes | Si, por proyectos revisados | Agrupa trabajos completos que no requieren repositorio remoto propio; cada proyecto debe pasar por revision legal y editorial antes de web. |
+| `academia` | Publicable con ajustes | Si, como indice y seccion academica | Debe mostrar proyectos academicos con contexto, sin material privado ni datos personales innecesarios. |
 | `portafolio` | En espera | No todavia | Aun no se han elegido proyectos finales de portafolio. |
 | `colaboraciones` | Solo GitHub | No por ahora | Debe documentar participaciones sin apropiarse de proyectos externos. |
 
@@ -31,10 +30,10 @@ La web debe priorizar contenido propio, educativo, claro y seguro. Los proyectos
 
 | Contenido | Estado inicial | Decision para web | Motivo |
 |---|---|---|---|
-| `proyectos/tecsup/fullstack-con-java/backend-final-exam` | Agrupado | No destacar por ahora | Es una evaluacion final ya entregada; publicar solo codigo propio y contexto general, sin enunciado oficial ni rubrica. |
-| `proyectos/tecsup/fullstack-con-java/crud-react-productos` | Agrupado | Si, despues de revision | Practica tecnica reusable; revisar README, fuentes y capturas antes de web. |
-| `proyectos/tecsup/fullstack-con-java/frontend-retos` | Agrupado | Si, despues de revision | Retos frontend utiles, pero no deben incluir enunciados originales ni imagenes sin fuente. |
-| `proyectos/tecsup/fullstack-con-java/sunat-consulta` | Agrupado | Si, despues de revision | Proyecto tecnico con integracion externa; revisar tokens, datos y condiciones de APIs usadas. |
+| `academia/tecsup/cursos/fullstack-con-java/proyectos/backend-final-exam` | Agrupado en academia | No destacar por ahora | Es una evaluacion final ya entregada; publicar solo codigo propio y contexto general, sin enunciado oficial ni rubrica. |
+| `academia/tecsup/cursos/fullstack-con-java/proyectos/crud-react-productos` | Agrupado en academia | Si, despues de revision | Practica tecnica reusable; revisar README, fuentes y capturas antes de web. |
+| `academia/tecsup/cursos/fullstack-con-java/proyectos/frontend-retos` | Agrupado en academia | Si, despues de revision | Retos frontend utiles, pero no deben incluir enunciados originales ni imagenes sin fuente. |
+| `academia/tecsup/cursos/fullstack-con-java/proyectos/sunat-consulta` | Agrupado en academia | Si, despues de revision | Proyecto tecnico con integracion externa; revisar tokens, datos y condiciones de APIs usadas. |
 
 ## Secciones de aprendizaje
 
