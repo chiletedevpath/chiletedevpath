@@ -4,7 +4,7 @@
 |---|---|
 | Codigo | CDP-AUD-APR-005 |
 | Version | 1.0 |
-| Estado | Saneado con ajustes editoriales pendientes |
+| Estado | Alineado para GitHub; requiere seleccion para web |
 | Fecha | 19/06/2026 |
 | Responsable | Adrian Pisco, fundador de Chilete DevPath |
 | Revision tecnica | Chilete DevPath |
@@ -22,31 +22,33 @@ Se reviso la carpeta `aprendizaje/05-algoritmos`, incluyendo:
 | Criterio | Resultado |
 |---|---|
 | Material privado de UTP, Tecsup, docente o evaluacion | No detectado |
-| Datos personales de terceros | Riesgo bajo por nombres/direcciones de ejemplo |
+| Datos personales de terceros | No detectado; los datos de ejemplo son ficticios |
 | Imagenes, marcas, logos o personajes de terceros | No aplica |
 | Credenciales, tokens o rutas sensibles | No detectado |
 | Fuentes externas pendientes | No detectado, pero falta contexto general |
 | Uso de IA declarado | No aplica en codigo; falta nota general si se documenta para web |
-| Enfoque comunitario | Parcial |
-| Alineacion con politicas de Chilete DevPath | Requiere ajustes |
+| Enfoque comunitario | Alineado para GitHub |
+| Alineacion con politicas de Chilete DevPath | Alineado para GitHub |
 
 ## 3. Hallazgos
 
 La seccion tiene buen potencial para la web porque trabaja temas importantes: busqueda, ordenamiento, recursion, backtracking y resolucion de problemas.
 
-Antes de llevarla a la web, conviene:
+Se mejoro:
 
-- ampliar el README principal;
-- explicar la ruta sugerida de aprendizaje;
-- indicar que los nombres, direcciones, saldos y claves usados en ejercicios son datos ficticios;
-- revisar si algunos ejercicios provienen de clase y documentarlo si corresponde;
-- agregar una nota de fuentes/autoria cuando se convierta en recurso comunitario.
+- README principal;
+- README de subcarpetas;
+- ruta sugerida de aprendizaje;
+- criterio Chilete DevPath;
+- nota de autoria y fuentes;
+- textos de salida y comentarios Java con codificacion danada;
+- robustez del indice por bloques en `SecuenciaIndice`.
 
 ## 4. Decision
 
-`aprendizaje/05-algoritmos` puede alimentar la futura web despues de ajustes editoriales.
+`aprendizaje/05-algoritmos` puede permanecer publicado en GitHub como contenido de aprendizaje.
 
-No se requiere retirar contenido por riesgos fuertes detectados en esta auditoria inicial.
+Para la futura web, debe seleccionarse que ejercicios se convertiran en guias completas con enunciado, explicacion, prueba de escritorio y solucion.
 
 ## 5. Contenido que puede publicarse
 
@@ -57,22 +59,22 @@ No se requiere retirar contenido por riesgos fuertes detectados en esta auditori
 
 ## 6. Contenido que requiere ajuste antes de web
 
-- README principal y README internos.
-- Nota de datos ficticios.
-- Contexto de origen de ejercicios si provienen de clase.
+- Seleccion de ejercicios para web.
+- Diagramas, trazas o prueba de escritorio.
 - Explicaciones de complejidad o criterio de uso.
+- Contexto de origen si algun ejercicio futuro se adapta desde fuente externa.
 
 ## 7. Saneamiento aplicado
 
 Se neutralizaron nombres y direcciones de ejemplo en los ejercicios de archivos indexados. Tambien se corrigieron textos con codificacion danada en archivos Java puntuales.
 
-Queda pendiente reforzar README, ruta sugerida y nota de datos ficticios.
+Se reforzaron los README y se verifico compilacion por directorio de ejercicios Java.
 
 ## 8. Decision para la web
 
 | Estado | Decision |
 |---|---|
-| Publicable | Si, con ajustes |
-| Requiere ajustes previos | Si |
+| Publicable | Si, para GitHub |
+| Requiere ajustes previos | Solo para version web |
 | Mantener solo en GitHub | No necesariamente |
 | No publicar | No |
