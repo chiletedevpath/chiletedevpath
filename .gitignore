@@ -1,0 +1,9 @@
+# Documentos personales locales
+*.docx
+*.pdf
+*.xlsx
+*.pptx
+
+# Temporales del sistema
+Thumbs.db
+.DS_Store
