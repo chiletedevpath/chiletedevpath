@@ -4,7 +4,7 @@
 |---|---|
 | Codigo | CDP-AUD-APR-002 |
 | Version | 1.0 |
-| Estado | Saneado con ajustes editoriales pendientes |
+| Estado | Alineado para GitHub; requiere seleccion para web |
 | Fecha | 19/06/2026 |
 | Responsable | Adrian Pisco, fundador de Chilete DevPath |
 | Revision tecnica | Chilete DevPath |
@@ -15,40 +15,40 @@ Se reviso la carpeta `aprendizaje/02-programacion-basica`, incluyendo:
 
 - README principal;
 - subcarpetas `variables`, `tipos-datos`, `condicionales`, `bucles`, `funciones`, `cadenas` y `arreglos`;
-- 67 archivos Java;
+- 78 archivos revisados;
 - README internos disponibles.
 
 ## 2. Resultado
 
 | Criterio | Resultado |
 |---|---|
-| Material privado de UTP, Tecsup, docente o evaluacion | No confirmado, requiere contexto |
+| Material privado de UTP, Tecsup, docente o evaluacion | No detectado como material oficial; requiere contexto si se lleva a web |
 | Datos personales de terceros | No detectado |
-| Imagenes, marcas, logos o personajes de terceros | Riesgo bajo por marcas usadas como ejemplos |
-| Credenciales, tokens o rutas sensibles | Riesgo bajo por claves de practica |
-| Fuentes externas pendientes | Requiere declaracion de origen |
-| Uso de IA declarado | No aplica en codigo; falta nota general si se documenta para web |
-| Enfoque comunitario | Parcial |
-| Alineacion con politicas de Chilete DevPath | Requiere ajustes |
+| Imagenes, marcas, logos o personajes de terceros | No detectado como riesgo activo |
+| Credenciales, tokens o rutas sensibles | No detectado |
+| Fuentes externas pendientes | Contexto general declarado |
+| Uso de IA declarado | Si, en documentacion |
+| Enfoque comunitario | Si, con seleccion previa para web |
+| Alineacion con politicas de Chilete DevPath | Alineado para GitHub |
 
 ## 3. Hallazgos
 
 La seccion tiene valor tecnico porque cubre fundamentos reales de Java: variables, tipos, condicionales, bucles, funciones, cadenas y arreglos.
 
-Antes de llevarla a la web, se deben atender estos puntos:
+Para la web, debe seleccionarse por tema y evitar publicar ejercicios como bloque masivo sin explicacion propia.
 
-- el README principal es muy breve para funcionar como recurso comunitario;
-- algunos paquetes usan `edu.pe.utp`, lo que sugiere origen academico y debe explicarse;
-- hay ejercicios con DNI como dato de ejemplo;
-- hay claves de practica como `java123` o `P@55w0rd`;
-- hay marcas reales usadas como ejemplo en encuestas;
-- algunos ejercicios pueden venir de clase y deben documentarse como practica propia o adaptada, no como material oficial.
+Puntos a considerar:
+
+- algunos paquetes usan `edu.pe.utp`, por lo que deben explicarse como contexto academico si se destacan;
+- los ejercicios de DNI, correo o credenciales deben tratarse como validaciones ficticias;
+- los comentarios tipo enunciado deben reescribirse si se convierten en articulos o recursos web;
+- el contenido debe presentarse como practica propia de aprendizaje, no como material oficial de una institucion.
 
 ## 4. Decision
 
 `aprendizaje/02-programacion-basica` puede mantenerse en GitHub como evidencia de practica.
 
-Para la futura web no debe publicarse como bloque final hasta limpiar y contextualizar el contenido.
+Para la futura web debe publicarse por partes, con explicacion propia y ejemplos seleccionados.
 
 ## 5. Contenido que puede publicarse
 
@@ -59,9 +59,8 @@ Para la futura web no debe publicarse como bloque final hasta limpiar y contextu
 
 ## 6. Contenido que requiere ajuste antes de web
 
-- README principal y README de subcarpetas.
-- Ejercicios que pidan DNI o simulen credenciales.
-- Ejercicios con marcas reales como opciones de encuesta.
+- README de subcarpetas, si se convierten en modulos web.
+- Ejercicios que pidan DNI, correo o credenciales, para aclarar que son datos ficticios.
 - Paquetes `edu.pe.utp`, si se decide presentar el contenido como recurso general de Chilete DevPath.
 - Comentarios o enunciados que provengan de clase y no esten redactados con palabras propias.
 
@@ -72,14 +71,16 @@ Se neutralizaron los puntos de riesgo detectados en archivos actuales:
 - claves de practica reemplazadas por valores genericos;
 - DNI de ejemplo reemplazados por identificadores ficticios;
 - marcas reales usadas en encuestas reemplazadas por opciones neutrales.
+- README principal ampliado con ruta sugerida, criterio de marca, datos ficticios, autoria y fuentes.
+- nombres personales y marcas de ejemplo reemplazados por datos ficticios alineados a Chilete DevPath.
 
-La seccion aun requiere mejoras de README y contexto antes de transformarse en contenido web comunitario.
+La seccion queda apta para GitHub como evidencia ordenada de aprendizaje. Para web, debe seleccionarse y adaptarse por tema.
 
 ## 8. Decision para la web
 
 | Estado | Decision |
 |---|---|
-| Publicable | No completo |
-| Requiere ajustes previos | Si |
-| Mantener solo en GitHub | Si, mientras no se limpie editorialmente |
+| Publicable | Si, por partes seleccionadas |
+| Requiere ajustes previos | Si, para version web |
+| Mantener solo en GitHub | Si, como bloque completo |
 | No publicar | No |
