@@ -23,7 +23,7 @@ Esta carpeta organiza los criterios operativos para decidir que contenido de Chi
 | [aprendizaje/07-desarrollo-web](auditorias/aprendizaje-07-desarrollo-web.md) | Alineado para GitHub; requiere seleccion para web |
 | [aprendizaje/08-patrones](auditorias/aprendizaje-08-patrones.md) | Alineado para GitHub; no publicar evaluaciones como bloque |
 | [aprendizaje/09-backend](auditorias/aprendizaje-09-backend.md) | Alineado para GitHub; requiere control de historial antes de web |
-| [aprendizaje/10-frontend](auditorias/aprendizaje-10-frontend.md) | En espera |
+| [aprendizaje/10-frontend](auditorias/aprendizaje-10-frontend.md) | Alineado como ruta futura |
 
 ## Uso recomendado
 
