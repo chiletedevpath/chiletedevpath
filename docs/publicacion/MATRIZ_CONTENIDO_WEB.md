@@ -20,9 +20,9 @@ La web debe priorizar contenido propio, educativo, claro y seguro. Los proyectos
 
 | Contenido | Estado inicial | Decision para web | Motivo |
 |---|---|---|---|
-| `utp-clinica-salud-vital` | Publicable con ajustes | Si, despues de revision final | Proyecto academico propio con valor tecnico; debe mantenerse sin documentos privados ni datos sensibles. |
+| `utp-clinica-salud-vital` | En proceso | No destacar por ahora | Proyecto academico propio con valor tecnico; continua en desarrollo y debe mantenerse sin documentos privados ni datos sensibles. |
 | `academia/utp/ciclo-04/base-de-datos-i/ferreteria-soto-db` | Agrupado en academia | No destacar por ahora | Proyecto academico ya entregado; conservar como evidencia tecnica, sin tratarlo como repo independiente ni como proyecto bandera. |
-| `utp-ferreteria-sys-patrones` | Publicable con ajustes | Si, despues de revision | Proyecto academico con potencial de portafolio; revisar estado, alcance y explicacion tecnica. |
+| `utp-ferreteria-sys-patrones` | En proceso | No destacar por ahora | Proyecto academico con potencial tecnico; continua en desarrollo y aun no debe tratarse como proyecto bandera ni portafolio final. |
 | `utp-la-lucha-bd-backend` | En espera | No por ahora | Proyecto academico vinculado al mismo contexto sensible de La Lucha; debe revisarse junto con frontend antes de evaluar su publicacion web. |
 | `utp-colab-la-lucha-frontend` | No publicar por ahora | No | Tiene riesgo por nombre, imagenes, marca y caracter colaborativo. Requiere ajustes de identidad, recursos visuales y disclaimers antes de evaluarlo para web. |
 
@@ -31,8 +31,8 @@ La web debe priorizar contenido propio, educativo, claro y seguro. Los proyectos
 | Contenido | Estado inicial | Decision para web | Motivo |
 |---|---|---|---|
 | `academia/tecsup/cursos/fullstack-con-java/proyectos/backend-final-exam` | Agrupado en academia | No destacar por ahora | Es una evaluacion final ya entregada; publicar solo codigo propio y contexto general, sin enunciado oficial ni rubrica. |
-| `academia/tecsup/cursos/fullstack-con-java/proyectos/crud-react-productos` | Agrupado en academia | Si, despues de revision | Practica tecnica reusable; revisar README, fuentes y capturas antes de web. |
-| `academia/tecsup/cursos/fullstack-con-java/proyectos/sunat-consulta` | Agrupado en academia | Si, despues de revision | Proyecto tecnico con integracion externa; revisar tokens, datos y condiciones de APIs usadas. |
+| `academia/tecsup/cursos/fullstack-con-java/proyectos/crud-react-productos` | Agrupado en academia | No destacar por ahora | Practica tecnica entregada; puede servir como evidencia academica, pero no debe pasar a web sin revision visual, fuentes y contexto. |
+| `academia/tecsup/cursos/fullstack-con-java/proyectos/sunat-consulta` | Agrupado en academia | No destacar por ahora | Proyecto tecnico con integracion externa; se retiraron evidencias sensibles y solo debe usarse como referencia academica hasta generar ejemplos seguros. |
 
 ## Secciones de aprendizaje
 
