@@ -21,7 +21,7 @@ La web debe priorizar contenido propio, educativo, claro y seguro. Los proyectos
 | Contenido | Estado inicial | Decision para web | Motivo |
 |---|---|---|---|
 | `utp-clinica-salud-vital` | Publicable con ajustes | Si, despues de revision final | Proyecto academico propio con valor tecnico; debe mantenerse sin documentos privados ni datos sensibles. |
-| `utp-ferreteria-soto-db` | Publicable con ajustes | Si, despues de revision | Proyecto academico de base de datos; revisar scripts, datos de ejemplo y contexto. |
+| `academia/utp/ciclo-04/base-de-datos-i/ferreteria-soto-db` | Agrupado en academia | No destacar por ahora | Proyecto academico ya entregado; conservar como evidencia tecnica, sin tratarlo como repo independiente ni como proyecto bandera. |
 | `utp-ferreteria-sys-patrones` | Publicable con ajustes | Si, despues de revision | Proyecto academico con potencial de portafolio; revisar estado, alcance y explicacion tecnica. |
 | `utp-la-lucha-bd-backend` | En espera | No por ahora | Proyecto academico vinculado al mismo contexto sensible de La Lucha; debe revisarse junto con frontend antes de evaluar su publicacion web. |
 | `utp-colab-la-lucha-frontend` | No publicar por ahora | No | Tiene riesgo por nombre, imagenes, marca y caracter colaborativo. Requiere ajustes de identidad, recursos visuales y disclaimers antes de evaluarlo para web. |

@@ -57,7 +57,7 @@ Su proposito es mostrar evolucion real: desde fundamentos y ejercicios guiados h
 |---|---|---|
 | Base de Datos II | [La Lucha BD Backend](https://github.com/chiletedevpath/utp-la-lucha-bd-backend) | Java, Spring Boot, PostgreSQL, SQL |
 | Algoritmos y Estructuras de Datos | [Clinica Salud Vital](https://github.com/chiletedevpath/utp-clinica-salud-vital) | Java, POO, estructuras de datos |
-| Base de Datos I | [Ferreteria Soto DB](https://github.com/chiletedevpath/utp-ferreteria-soto-db) | SQL Server, T-SQL, procedimientos, triggers |
+| Base de Datos I | `academia/utp/ciclo-04/base-de-datos-i/ferreteria-soto-db` | SQL Server, T-SQL, procedimientos, triggers |
 | Patrones de Diseno | [Ferreteria Sys Patrones](https://github.com/chiletedevpath/utp-ferreteria-sys-patrones) | Java, POO, modelado por dominio |
 
 ### Tecsup
