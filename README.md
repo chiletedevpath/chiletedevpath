@@ -67,7 +67,6 @@ Su proposito es mostrar evolucion real: desde fundamentos y ejercicios guiados h
 | Fullstack con Java | `academia/tecsup/cursos/fullstack-con-java/proyectos/backend-final-exam` | Java, Spring Boot, PostgreSQL, microservicios |
 | Fullstack con Java | `academia/tecsup/cursos/fullstack-con-java/proyectos/sunat-consulta` | Java, Spring Boot, OpenFeign, H2 |
 | Fullstack con Java | `academia/tecsup/cursos/fullstack-con-java/proyectos/crud-react-productos` | React, Vite, JavaScript, Fetch API |
-| Fullstack con Java | `academia/tecsup/cursos/fullstack-con-java/proyectos/frontend-retos` | HTML, CSS, JavaScript |
 
 ## Tecnologias en practica
 

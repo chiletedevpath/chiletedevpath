@@ -32,7 +32,6 @@ La web debe priorizar contenido propio, educativo, claro y seguro. Los proyectos
 |---|---|---|---|
 | `academia/tecsup/cursos/fullstack-con-java/proyectos/backend-final-exam` | Agrupado en academia | No destacar por ahora | Es una evaluacion final ya entregada; publicar solo codigo propio y contexto general, sin enunciado oficial ni rubrica. |
 | `academia/tecsup/cursos/fullstack-con-java/proyectos/crud-react-productos` | Agrupado en academia | Si, despues de revision | Practica tecnica reusable; revisar README, fuentes y capturas antes de web. |
-| `academia/tecsup/cursos/fullstack-con-java/proyectos/frontend-retos` | Agrupado en academia | Si, despues de revision | Retos frontend utiles, pero no deben incluir enunciados originales ni imagenes sin fuente. |
 | `academia/tecsup/cursos/fullstack-con-java/proyectos/sunat-consulta` | Agrupado en academia | Si, despues de revision | Proyecto tecnico con integracion externa; revisar tokens, datos y condiciones de APIs usadas. |
 
 ## Secciones de aprendizaje
@@ -46,7 +45,7 @@ La web debe priorizar contenido propio, educativo, claro y seguro. Los proyectos
 | `04-estructuras-datos` | Publicable con ajustes menores | Si, despues de mejorar documentacion | No se detectaron archivos privados, imagenes ni datos personales; requiere README mas completo y contexto para comunidad. |
 | `05-algoritmos` | Saneado con ajustes editoriales pendientes | Si, despues de mejorar contexto | Se neutralizaron nombres y direcciones de ejemplo en archivos indexados. Falta README mas completo y nota de datos ficticios. |
 | `06-bases-de-datos` | Saneado con ajustes editoriales pendientes | Si, despues de mejorar contexto | Se neutralizaron correos, telefonos y nombres de ejemplo detectados. Falta declarar datos ficticios y contextualizar practicas de clase. |
-| `07-desarrollo-web` | Saneado con ajustes editoriales pendientes | Si, por partes revisadas | Se retiraron personaje protegido, CV con datos personales e imagenes sin fuente detectadas. Falta mejorar README de modulos y revisar PHP ejercicio por ejercicio. |
+| `07-desarrollo-web` | Saneado con ajustes editoriales pendientes | Si, por partes revisadas | Incluye practicas base, PHP y `frontend-retos`; revisar imagenes, fuentes y enunciados antes de web. |
 | `08-patrones` | Saneado parcial; no publicar evaluaciones como bloque | Si, solo conceptos adaptados | Se corrigio README principal y se neutralizaron correos/nombres/marcas detectadas. Las evaluaciones y enunciados aun requieren adaptacion antes de web. |
 | `09-backend` | Saneado en archivos actuales; requiere control de historial | No destacar aun | Se reemplazaron secretos por variables de entorno. Si los valores previos fueron reales, deben revocarse y revisarse en historial Git antes de publicacion web. |
 | `10-frontend` | En espera | Si, como ruta futura | No presenta riesgos detectados, pero aun no tiene contenido suficiente para funcionar como modulo web completo. |

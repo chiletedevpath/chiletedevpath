@@ -14,8 +14,8 @@
 Se reviso la carpeta `aprendizaje/07-desarrollo-web`, incluyendo:
 
 - README principal;
-- secciones `html`, `css`, `javascript`, `php` y `practica-ui`;
-- archivos HTML, CSS, PHP e imagenes.
+- secciones `html`, `css`, `javascript`, `php`, `practica-ui` y `frontend-retos`;
+- archivos HTML, CSS, JavaScript, PHP e imagenes.
 
 ## 2. Resultado
 
@@ -23,7 +23,7 @@ Se reviso la carpeta `aprendizaje/07-desarrollo-web`, incluyendo:
 |---|---|
 | Material privado de UTP, Tecsup, docente o evaluacion | No detectado como material oficial; PHP se documenta como practica academica propia |
 | Datos personales de terceros | No detectado; la plantilla CV usa datos ficticios |
-| Imagenes, marcas, logos o personajes de terceros | No detectado en archivos actuales revisados |
+| Imagenes, marcas, logos o personajes de terceros | No detectado como uso publicable; `frontend-retos` conserva imagenes de practica que requieren revision antes de web |
 | Credenciales, tokens o rutas sensibles | No detectado |
 | Fuentes externas pendientes | No detectado, pero debe documentarse si se agregan recursos externos futuros |
 | Uso de IA declarado | Si en PHP; criterio general documentado en README principal |
@@ -32,7 +32,7 @@ Se reviso la carpeta `aprendizaje/07-desarrollo-web`, incluyendo:
 
 ## 3. Hallazgos
 
-La seccion tiene valor porque ordena fundamentos web: HTML, CSS, JavaScript, PHP y practica de interfaz.
+La seccion tiene valor porque ordena fundamentos web: HTML, CSS, JavaScript, PHP, practica de interfaz y retos pequenos de frontend.
 
 Se mejoro:
 
@@ -43,7 +43,8 @@ Se mejoro:
 - README de ciclos y arreglos en PHP;
 - CRUD PHP con MySQL documentado como practica local;
 - texto visible de `flexbox-studio`;
-- separacion conceptual entre desarrollo web base y frontend moderno.
+- separacion conceptual entre desarrollo web base y frontend moderno;
+- reubicacion de `frontend-retos` como practica de aprendizaje, no como proyecto academico independiente.
 
 ## 4. Decision
 
@@ -57,6 +58,7 @@ Para la futura web debe usarse por partes, seleccionando ejercicios y convirtien
 - PHP como modulo de aprendizaje inicial, con contexto academico claro.
 - Ejercicios HTML/CSS seleccionados sin recursos de terceros.
 - Practicas UI con figuras CSS o assets propios de Chilete DevPath.
+- Retos pequenos de frontend, despues de revisar imagenes y redactar enunciados con palabras propias.
 
 ## 6. Contenido que requiere ajuste antes de web
 
@@ -65,6 +67,7 @@ Para la futura web debe usarse por partes, seleccionando ejercicios y convirtien
 - Capturas o resultados esperados para las practicas visuales.
 - Enunciados redactados con palabras propias si se convierten en recursos publicos.
 - Revision de dependencias externas por CDN si se publica el CRUD como guia.
+- Revision o reemplazo de imagenes locales de `frontend-retos` antes de publicacion web.
 
 ## 7. Saneamiento aplicado
 
