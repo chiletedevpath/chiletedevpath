@@ -17,7 +17,7 @@ Esta carpeta organiza los criterios operativos para decidir que contenido de Chi
 | [aprendizaje/01-pseudocodigo](auditorias/aprendizaje-01-pseudocodigo.md) | Alineado para GitHub; requiere adaptacion para web |
 | [aprendizaje/02-programacion-basica](auditorias/aprendizaje-02-programacion-basica.md) | Alineado para GitHub; requiere seleccion para web |
 | [aprendizaje/03-poo](auditorias/aprendizaje-03-poo.md) | Alineado para GitHub; requiere seleccion para web |
-| [aprendizaje/04-estructuras-datos](auditorias/aprendizaje-04-estructuras-datos.md) | Publicable con ajustes menores |
+| [aprendizaje/04-estructuras-datos](auditorias/aprendizaje-04-estructuras-datos.md) | Alineado para GitHub; requiere seleccion para web |
 | [aprendizaje/05-algoritmos](auditorias/aprendizaje-05-algoritmos.md) | Saneado con ajustes editoriales pendientes |
 | [aprendizaje/06-bases-de-datos](auditorias/aprendizaje-06-bases-de-datos.md) | Saneado con ajustes editoriales pendientes |
 | [aprendizaje/07-desarrollo-web](auditorias/aprendizaje-07-desarrollo-web.md) | Saneado con ajustes editoriales pendientes |

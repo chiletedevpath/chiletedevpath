@@ -4,7 +4,7 @@
 |---|---|
 | Codigo | CDP-AUD-APR-004 |
 | Version | 1.0 |
-| Estado | Requiere ajustes menores |
+| Estado | Alineado para GitHub; requiere seleccion para web |
 | Fecha | 19/06/2026 |
 | Responsable | Adrian Pisco, fundador de Chilete DevPath |
 | Revision tecnica | Chilete DevPath |
@@ -32,22 +32,23 @@ Se reviso la carpeta `aprendizaje/04-estructuras-datos`, incluyendo:
 
 ## 3. Hallazgos
 
-La seccion es tecnicamente util y no presenta riesgos fuertes para publicacion.
+La seccion quedo alineada como material educativo para GitHub.
 
-Antes de llevarla a la web, conviene mejorar:
+Se mejoro:
 
 - README principal;
 - README de subcarpetas;
-- explicacion de que problema resuelve cada estructura;
+- explicacion del proposito de cada estructura;
 - ruta sugerida de practica;
-- notas de ejecucion o compilacion;
-- normalizacion de comentarios tecnicos si se usaran como material formal.
+- criterio de uso comunitario;
+- normalizacion de comentarios tecnicos en ejercicios Java;
+- correccion de texto dañado por encoding en archivos de grafos y tablas hash.
 
 ## 4. Decision
 
-`aprendizaje/04-estructuras-datos` puede alimentar la futura web despues de una mejora documental.
+`aprendizaje/04-estructuras-datos` puede permanecer publicado en GitHub como contenido de aprendizaje.
 
-No se requiere retirar contenido por riesgos legales o de privacidad detectados en esta auditoria inicial.
+Para la futura web, debe seleccionarse que ejercicios se convertiran en guias completas con enunciado, explicacion, solucion y apoyo visual.
 
 ## 5. Contenido que puede publicarse
 
@@ -58,15 +59,15 @@ No se requiere retirar contenido por riesgos legales o de privacidad detectados 
 
 ## 6. Contenido que requiere ajuste antes de web
 
-- README principal y README internos.
-- Guia de ejecucion.
-- Criterio para elegir una estructura de datos segun el problema.
+- Seleccion de ejercicios para web.
+- Diagramas o tablas visuales para grafos y hash.
+- Enunciados redactados para comunidad.
 
 ## 7. Decision para la web
 
 | Estado | Decision |
 |---|---|
-| Publicable | Si, con ajustes menores |
-| Requiere ajustes previos | Si |
+| Publicable | Si, para GitHub |
+| Requiere ajustes previos | Solo para version web |
 | Mantener solo en GitHub | No necesariamente |
 | No publicar | No |
