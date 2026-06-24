@@ -6,6 +6,31 @@ Esta matriz registra el criterio inicial para decidir que contenido del ecosiste
 
 La web debe priorizar contenido propio, educativo, claro y seguro. Los proyectos con marcas ajenas, colaboraciones sensibles, evaluaciones academicas o recursos visuales sin fuente deben revisarse antes de publicarse o destacarse.
 
+## Regla visual para proyectos
+
+Todo proyecto que aspire a mostrarse en la web de Chilete DevPath debe tener una imagen de presentacion propia o autorizada. Esta imagen funciona como portada visual del proyecto, no como evidencia academica.
+
+### Criterios obligatorios
+
+- No usar logos de instituciones educativas, empresas, restaurantes, comercios o terceros sin autorizacion.
+- No usar fotografias de companeros, docentes, clientes, pacientes, usuarios o terceros.
+- No mostrar datos personales, correos reales, DNI, telefonos, rutas locales, tokens, claves, capturas de Postman con respuestas sensibles ni paneles privados.
+- No presentar el proyecto como oficial de UTP, Tecsup, una empresa o una marca ajena.
+- Mantener una estetica propia de Chilete DevPath: educativa, tecnica, profesional y coherente con la identidad visual de la web.
+- Registrar la imagen en el proyecto solo cuando este aprobada y tenga un nombre descriptivo.
+
+### Prompt base para generar portadas
+
+```txt
+Crear una imagen horizontal profesional para la portada de un proyecto academico de software llamado "[NOMBRE DEL PROYECTO]". Debe representar [DOMINIO DEL PROYECTO] con enfoque tecnico en [TECNOLOGIAS O CONCEPTOS]. Estilo moderno, limpio, educativo y serio, alineado a una marca de aprendizaje Full Stack llamada Chilete DevPath. Usar una paleta inspirada en azul profundo, verde tecnico y acento dorado suave. No incluir logos de universidades, empresas, marcas reales, personas, documentos, capturas de pantalla ni texto pequeno ilegible. Composicion tipo banner para GitHub y web, con espacio visual para titulo.
+```
+
+### Ejemplo para `utp-ferreteria-sys-patrones`
+
+```txt
+Crear una imagen horizontal profesional para la portada de un proyecto academico de software llamado "FerreSys Patrones". Debe representar un sistema de ventas e inventario para ferreteria con enfoque tecnico en patrones de diseno, arquitectura Java, ventas, stock y comprobantes. Estilo moderno, limpio, educativo y serio, alineado a una marca de aprendizaje Full Stack llamada Chilete DevPath. Usar una paleta inspirada en azul profundo, verde tecnico y acento dorado suave. No incluir logos de universidades, empresas, marcas reales, personas, documentos, capturas de pantalla ni texto pequeno ilegible. Composicion tipo banner para GitHub y web, con espacio visual para titulo.
+```
+
 ## Repositorios principales
 
 | Contenido | Estado inicial | Decision para web | Motivo |
