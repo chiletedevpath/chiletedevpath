@@ -47,8 +47,8 @@ Crear una imagen horizontal profesional para la portada de un proyecto academico
 | `utp-clinica-salud-vital` | En proceso | No destacar por ahora | Proyecto academico propio con valor tecnico; continua en desarrollo y debe mantenerse sin documentos privados ni datos sensibles. |
 | `academia/utp/ciclo-04/base-de-datos-i/ferreteria-soto-db` | Agrupado en academia | No destacar por ahora | Proyecto academico ya entregado; conservar como evidencia tecnica, sin tratarlo como repo independiente ni como proyecto bandera. |
 | `utp-ferreteria-sys-patrones` | En proceso | No destacar por ahora | Proyecto academico con potencial tecnico; continua en desarrollo y aun no debe tratarse como proyecto bandera ni portafolio final. |
-| `utp-la-lucha-bd-backend` | En espera | No por ahora | Proyecto academico vinculado al mismo contexto sensible de La Lucha; debe revisarse junto con frontend antes de evaluar su publicacion web. |
-| `utp-colab-la-lucha-frontend` | No publicar por ahora | No | Tiene riesgo por nombre, imagenes, marca y caracter colaborativo. Requiere ajustes de identidad, recursos visuales y disclaimers antes de evaluarlo para web. |
+| `utp-la-lucha-bd-backend` | Riesgo legal/editorial | No publicable en web | Proyecto academico vinculado a una marca/empresa real, datos de ejemplo sensibles y contexto que puede confundirse con un caso oficial. Solo podria evaluarse una version neutral futura. |
+| `utp-colab-la-lucha-frontend` | Riesgo legal/editorial y colaborativo | No publicable en web | Proyecto colaborativo con marca/empresa real, posible autoria compartida, recursos visuales y datos de contacto. No debe formar parte de la web de Chilete DevPath. |
 
 ## Proyectos Tecsup
 
@@ -76,15 +76,17 @@ Crear una imagen horizontal profesional para la portada de un proyecto academico
 
 ## Regla para La Lucha y colaboraciones
 
-Los proyectos vinculados a La Lucha y los proyectos colaborativos no deben formar parte de la web principal ni tener repositorio propio de marca hasta revisar:
+Los proyectos vinculados a La Lucha y los proyectos colaborativos no deben formar parte de la web principal ni ser promocionados desde Chilete DevPath. La decision vigente es no publicarlos en la web por riesgo legal, editorial, de marca, autoria y datos sensibles.
 
-- autoria real;
-- permisos del equipo;
-- uso de marcas o nombres comerciales;
-- imagenes y recursos visuales;
-- datos personales;
-- contexto academico;
-- posibilidad de reemplazar marca, imagenes y textos por una version neutral.
+Solo podria evaluarse una version futura si se crea una variante neutral que cumpla todo lo siguiente:
+
+- autoria real claramente delimitada;
+- permisos del equipo cuando corresponda;
+- eliminacion de marcas, nombres comerciales y datos de contacto reales;
+- imagenes y recursos visuales propios, libres o autorizados;
+- datos personales anonimizados o reemplazados por datos ficticios;
+- contexto academico explicado sin presentarlo como caso oficial de una empresa;
+- textos, nombres, capturas y evidencias reemplazados por una version neutral.
 
 ## Proxima revision sugerida
 
