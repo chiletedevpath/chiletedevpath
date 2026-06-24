@@ -44,7 +44,7 @@ Crear una imagen horizontal profesional para la portada de un proyecto academico
 
 | Contenido | Estado inicial | Decision para web | Motivo |
 |---|---|---|---|
-| `utp-clinica-salud-vital` | En proceso | No destacar por ahora | Proyecto academico propio con valor tecnico; continua en desarrollo y debe mantenerse sin documentos privados ni datos sensibles. |
+| `utp-clinica-salud-vital` | En proceso | Vinculable como avance academico | Proyecto academico propio con valor tecnico; puede enlazarse como evidencia en revision, sin tratarlo como portafolio final ni proyecto destacado hasta su cierre. |
 | `academia/utp/ciclo-04/base-de-datos-i/ferreteria-soto-db` | Agrupado en academia | No destacar por ahora | Proyecto academico ya entregado; conservar como evidencia tecnica, sin tratarlo como repo independiente ni como proyecto bandera. |
 | `utp-ferreteria-sys-patrones` | En proceso | No destacar por ahora | Proyecto academico con potencial tecnico; continua en desarrollo y aun no debe tratarse como proyecto bandera ni portafolio final. |
 | `utp-la-lucha-bd-backend` | Riesgo legal/editorial | No publicable en web | Proyecto academico vinculado a una marca/empresa real, datos de ejemplo sensibles y contexto que puede confundirse con un caso oficial. Solo podria evaluarse una version neutral futura. |
