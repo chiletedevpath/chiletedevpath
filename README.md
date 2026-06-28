@@ -1,91 +1,99 @@
 <p align="center">
-  <img src="assets/portada-linkedin.png" alt="Chilete DevPath - Portada" width="100%" />
+  <img src="assets/portada-linkedin.png" alt="Chilete DevPath - Ruta pública de aprendizaje técnico" width="100%" />
 </p>
 
-# Adrian Pisco | Chilete DevPath
+<h1 align="center">Chilete DevPath</h1>
 
-Soy **Adrian Pisco**, estudiante de **Ingenieria de Sistemas e Informatica** y desarrollador Full Stack en formacion.
+<p align="center">
+  <strong>Ruta pública de aprendizaje, proyectos y criterio técnico.</strong><br />
+  Creada por Adrián Pisco, estudiante de Ingeniería de Sistemas e Informática y desarrollador Full Stack en formación.
+</p>
 
-**Chilete DevPath** es mi marca personal y ecosistema de aprendizaje: un espacio donde organizo mi avance tecnico, mis proyectos academicos, mis practicas y los recursos que voy preparando para una futura comunidad de estudiantes y desarrolladores.
-
-Mi objetivo es construir una ruta publica, ordenada y honesta de evolucion profesional: desde fundamentos y ejercicios guiados hasta proyectos mas completos, documentacion tecnica, buenas practicas y una futura web de marca.
-
-## Contacto
-
-<p>
-  <a href="https://www.linkedin.com/in/adrian-pisco">
-    <img src="https://img.shields.io/badge/LinkedIn-Adrian%20Pisco-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Adrian Pisco" />
+<p align="center">
+  <a href="https://chiletedevpath.github.io/">
+    <img src="https://img.shields.io/badge/Web-oficial-00A86B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web oficial de Chilete DevPath" />
   </a>
-  <a href="https://github.com/chiletedevpath">
-    <img src="https://img.shields.io/badge/GitHub-chiletedevpath-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - chiletedevpath" />
+  <a href="https://github.com/chiletedevpath/aprendizaje">
+    <img src="https://img.shields.io/badge/Ruta-aprendizaje-0B1F33?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio aprendizaje" />
+  </a>
+  <a href="https://github.com/chiletedevpath/academia">
+    <img src="https://img.shields.io/badge/Proyectos-academicos-D4A017?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio academia" />
   </a>
 </p>
 
-## Que estoy construyendo
+---
 
-Chilete DevPath no es solo un repositorio de apuntes. Es la base de una marca tecnica que busca mostrar aprendizaje real, criterio profesional y contenido reutilizable para la comunidad.
+## Qué es
 
-Actualmente estoy trabajando en:
+**Chilete DevPath** es mi marca personal como futuro desarrollador Full Stack e ingeniero de sistemas.
 
-- fortalecer fundamentos de programacion, algoritmos, POO y estructuras de datos;
-- practicar desarrollo web con HTML, CSS, JavaScript, PHP, React y Vite;
-- reforzar backend con Java, Spring Boot y bases de datos relacionales;
-- organizar proyectos academicos con contexto, alcance y evidencia tecnica;
-- preparar recursos educativos propios para una futura web de Chilete DevPath;
-- construir un portafolio profesional cuando los proyectos tengan el nivel adecuado.
+Nace para ordenar mi aprendizaje desde fundamentos hasta proyectos reales, documentar lo que voy construyendo y compartir recursos útiles con una comunidad que también quiere aprender con criterio.
 
-## Ecosistema principal
+No es una lista de repositorios sueltos. Es un ecosistema:
 
-| Repositorio | Funcion dentro de Chilete DevPath |
+| Área | Para qué sirve |
 |---|---|
-| [aprendizaje](https://github.com/chiletedevpath/aprendizaje) | Ruta progresiva de ejercicios, laboratorios, fundamentos y practicas tecnicas. |
-| [academia](https://github.com/chiletedevpath/academia) | Organizacion de proyectos academicos, entregas y evidencias de aprendizaje. |
-| [portafolio](https://github.com/chiletedevpath/portafolio) | Espacio en preparacion para futuros proyectos con valor profesional. |
-| [chiletedevpath](https://github.com/chiletedevpath/chiletedevpath) | Base documental de marca, politicas, criterios editoriales y futura web. |
+| **Aprendizaje** | Ejercicios, laboratorios, glosarios y prácticas organizadas por nivel. |
+| **Academia** | Proyectos académicos terminados o en revisión, con contexto y publicación segura. |
+| **Web** | Punto de entrada para navegar la ruta, recursos, proyectos, criterios y comunidad. |
+| **Portafolio** | Selección futura de proyectos con valor profesional real. |
 
-## Linea tecnica actual
+## Para quién es
 
-```txt
-Java
-Spring Boot
-PostgreSQL
-SQL Server
-T-SQL
-HTML
-CSS
-JavaScript
-PHP
-React
-Vite
-Git y GitHub
-PSeInt
-```
+Para estudiantes, personas que están empezando en programación y cualquiera que quiera ver una ruta de aprendizaje construida paso a paso, sin aparentar resultados que todavía no existen.
 
-## Criterio de publicacion
+La idea es simple: **aprender, practicar, documentar y publicar con responsabilidad**.
 
-No todo lo que practico se convierte automaticamente en contenido publico destacado.
+## Qué puedes revisar
 
-Antes de llevar un material a la web o al portafolio, reviso:
+- [Web oficial de Chilete DevPath](https://chiletedevpath.github.io/)
+- [Ruta de aprendizaje](https://github.com/chiletedevpath/aprendizaje)
+- [Proyectos académicos](https://github.com/chiletedevpath/academia)
+- [Base documental de marca](docs/README.md)
+- [Políticas y criterios de publicación](docs/politicas/README.md)
+- [Checklist de publicación segura](docs/publicacion/CHECKLIST_PUBLICACION_SEGURA.md)
 
-- autoria y fuentes;
-- uso responsable de IA;
-- privacidad y datos de ejemplo;
-- marcas, imagenes y recursos externos;
-- diferencia entre practica, proyecto academico y proyecto profesional;
-- valor real para una persona que esta aprendiendo.
+## Proyectos académicos ya organizados
 
-Las politicas base estan en:
+Los proyectos terminados que ya no necesitan repositorio independiente viven dentro de `academia`, para mantener el ecosistema más limpio y fácil de navegar.
 
-- [Politica Editorial](docs/politicas/POLITICA_EDITORIAL.md)
-- [Politica de Uso Responsable de IA](docs/politicas/POLITICA_USO_RESPONSABLE_IA.md)
-- [Politica de Bienestar en el Aprendizaje Tecnico](docs/politicas/POLITICA_BIENESTAR_APRENDIZAJE.md)
+| Proyecto | Estado | Ubicación |
+|---|---|---|
+| Clínica Salud Vital | Terminado | `academia/utp/ciclo-05/algoritmos-y-estructuras-de-datos/clinica-salud-vital` |
+| Ferretería Sys Patrones | Terminado | `academia/utp/ciclo-05/patrones-de-diseno/ferreteria-sys-patrones` |
 
-## Proposito
+Los proyectos con datos sensibles, colaboraciones o marcas de terceros no se muestran en la web hasta pasar revisión legal, técnica y editorial.
 
-Estoy construyendo Chilete DevPath paso a paso para que mi GitHub refleje tres cosas:
+## Criterio de publicación
 
-1. aprendizaje real;
-2. criterio tecnico;
-3. evolucion profesional verificable.
+Antes de convertir un contenido en material público reviso:
 
-La siguiente etapa es seguir ordenando contenido, seleccionar materiales seguros para la futura web y convertir los mejores aprendizajes en recursos claros para comunidad.
+- autoría, fuentes y uso responsable de información externa;
+- datos personales, credenciales y contenido sensible;
+- uso de marcas, imágenes o instituciones;
+- diferencia entre práctica, proyecto académico y portafolio profesional;
+- utilidad real para alguien que está aprendiendo.
+
+Este repositorio contiene las políticas base que guían ese proceso:
+
+- [Política editorial](docs/politicas/POLITICA_EDITORIAL.md)
+- [Política de uso responsable de IA](docs/politicas/POLITICA_USO_RESPONSABLE_IA.md)
+- [Política de bienestar en el aprendizaje](docs/politicas/POLITICA_BIENESTAR_APRENDIZAJE.md)
+
+## Estado actual
+
+Chilete DevPath ya cuenta con:
+
+- una web pública navegable;
+- ruta de aprendizaje organizada;
+- proyectos académicos agrupados en `academia`;
+- políticas de publicación y uso responsable;
+- base para seguir creciendo hacia comunidad, recursos y portafolio.
+
+El siguiente paso es seguir mejorando la experiencia web y convertir los contenidos aprobados en recursos claros, reutilizables y fáciles de estudiar.
+
+---
+
+<p align="center">
+  Construido desde Chilete, Cajamarca, Perú, con práctica real y criterio técnico.
+</p>
