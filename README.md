@@ -27,70 +27,37 @@
 
 **Chilete DevPath** es mi marca personal como futuro desarrollador Full Stack e ingeniero de sistemas.
 
-Nace para ordenar mi aprendizaje desde fundamentos hasta proyectos reales, documentar lo que voy construyendo y compartir recursos útiles con una comunidad que también quiere aprender con criterio.
+Nace para ordenar mi aprendizaje, mostrar mi avance técnico y convertir ejercicios, proyectos y recursos en una ruta clara para mi comunidad.
 
-No es una lista de repositorios sueltos. Es un ecosistema:
+No es una lista de repositorios sueltos. Es un ecosistema con una idea simple: **aprender, practicar, documentar y compartir con criterio**.
 
-| Área | Para qué sirve |
+## Cómo se organiza
+
+| Espacio | Rol |
 |---|---|
-| **Aprendizaje** | Ejercicios, laboratorios, glosarios y prácticas organizadas por nivel. |
-| **Academia** | Proyectos académicos terminados o en revisión, con contexto y publicación segura. |
-| **Web** | Punto de entrada para navegar la ruta, recursos, proyectos, criterios y comunidad. |
-| **Portafolio** | Selección futura de proyectos con valor profesional real. |
+| [Aprendizaje](https://github.com/chiletedevpath/aprendizaje) | Ejercicios, laboratorios, glosarios y prácticas por nivel. |
+| [Academia](https://github.com/chiletedevpath/academia) | Proyectos académicos organizados con contexto y evidencia técnica. |
+| [Web](https://chiletedevpath.github.io/) | Entrada principal para navegar la ruta, recursos, proyectos y comunidad. |
+| [Portafolio](https://github.com/chiletedevpath/portafolio) | Selección futura de proyectos con valor profesional real. |
 
-## Para quién es
+## Proyectos académicos organizados
 
-Para estudiantes, personas que están empezando en programación y cualquiera que quiera ver una ruta de aprendizaje construida paso a paso, sin aparentar resultados que todavía no existen.
-
-La idea es simple: **aprender, practicar, documentar y publicar con responsabilidad**.
+| Proyecto | Enfoque | Acceso |
+|---|---|---|
+| Ferretería Soto DB | Base de datos, SQL Server y modelo relacional | [Ver proyecto](https://github.com/chiletedevpath/academia/tree/main/utp/ciclo-04/base-de-datos-i/ferreteria-soto-db) |
+| Clínica Salud Vital | Java, POO y estructuras de datos | [Ver proyecto](https://github.com/chiletedevpath/academia/tree/main/utp/ciclo-05/algoritmos-y-estructuras-de-datos/clinica-salud-vital) |
+| Ferretería Sys Patrones | Java, arquitectura y patrones de diseño | [Ver proyecto](https://github.com/chiletedevpath/academia/tree/main/utp/ciclo-05/patrones-de-diseno/ferreteria-sys-patrones) |
 
 ## Qué puedes revisar
 
-- [Web oficial de Chilete DevPath](https://chiletedevpath.github.io/)
-- [Ruta de aprendizaje](https://github.com/chiletedevpath/aprendizaje)
-- [Proyectos académicos](https://github.com/chiletedevpath/academia)
-- [Base documental de marca](docs/README.md)
-- [Políticas y criterios de publicación](docs/politicas/README.md)
-- [Checklist de publicación segura](docs/publicacion/CHECKLIST_PUBLICACION_SEGURA.md)
-
-## Proyectos académicos ya organizados
-
-Los proyectos terminados que ya no necesitan repositorio independiente viven dentro de `academia`, para mantener el ecosistema más limpio y fácil de navegar.
-
-| Proyecto | Estado | Ubicación |
-|---|---|---|
-| Clínica Salud Vital | Terminado | `academia/utp/ciclo-05/algoritmos-y-estructuras-de-datos/clinica-salud-vital` |
-| Ferretería Sys Patrones | Terminado | `academia/utp/ciclo-05/patrones-de-diseno/ferreteria-sys-patrones` |
-
-Los proyectos con datos sensibles, colaboraciones o marcas de terceros no se muestran en la web hasta pasar revisión legal, técnica y editorial.
-
-## Criterio de publicación
-
-Antes de convertir un contenido en material público reviso:
-
-- autoría, fuentes y uso responsable de información externa;
-- datos personales, credenciales y contenido sensible;
-- uso de marcas, imágenes o instituciones;
-- diferencia entre práctica, proyecto académico y portafolio profesional;
-- utilidad real para alguien que está aprendiendo.
-
-Este repositorio contiene las políticas base que guían ese proceso:
-
-- [Política editorial](docs/politicas/POLITICA_EDITORIAL.md)
-- [Política de uso responsable de IA](docs/politicas/POLITICA_USO_RESPONSABLE_IA.md)
-- [Política de bienestar en el aprendizaje](docs/politicas/POLITICA_BIENESTAR_APRENDIZAJE.md)
+- La [web oficial](https://chiletedevpath.github.io/) como punto de entrada visual.
+- La [ruta de aprendizaje](https://github.com/chiletedevpath/aprendizaje) para seguir temas desde fundamentos.
+- Los [proyectos académicos](https://github.com/chiletedevpath/academia) como evidencia de formación.
+- Las [políticas de Chilete DevPath](docs/politicas/README.md), donde están los criterios de publicación, uso de IA y bienestar.
 
 ## Estado actual
 
-Chilete DevPath ya cuenta con:
-
-- una web pública navegable;
-- ruta de aprendizaje organizada;
-- proyectos académicos agrupados en `academia`;
-- políticas de publicación y uso responsable;
-- base para seguir creciendo hacia comunidad, recursos y portafolio.
-
-El siguiente paso es seguir mejorando la experiencia web y convertir los contenidos aprobados en recursos claros, reutilizables y fáciles de estudiar.
+Chilete DevPath ya cuenta con una web pública, una ruta de aprendizaje organizada, proyectos académicos agrupados y una base documental para seguir creciendo hacia recursos, comunidad y portafolio.
 
 ---
 
