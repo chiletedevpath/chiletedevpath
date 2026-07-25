@@ -8,6 +8,7 @@ Su objetivo es servir como fuente para construir la futura web de la marca, el p
 
 - `politicas/`: politicas formales de Chilete DevPath sobre contenido, IA responsable, bienestar y seguridad.
 - `publicacion/`: criterios operativos para decidir que contenido puede pasar del ecosistema GitHub a la futura web.
+- `PENDIENTES_RUTA_APRENDIZAJE.md`: brechas verificadas que deben atenderse antes de declarar completa una seccion de la ruta.
 - `../assets/`: portada visual usada por el README principal de la marca.
 
 ## Uso
