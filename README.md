@@ -27,7 +27,7 @@
 
 **Chilete DevPath** es mi marca personal y ecosistema técnico. Nace en Chilete, Cajamarca, para documentar con honestidad cómo aprendo, practico y construyo software.
 
-Aquí separo cada tipo de trabajo según su propósito: la práctica progresiva, la evidencia académica, la selección profesional y los proyectos empresariales que requieren privacidad. La idea que conecta todo es simple: **aprender, construir, validar, documentar y compartir con criterio**.
+Aquí separo cada tipo de trabajo según su propósito: la práctica progresiva, la evidencia académica, la selección profesional y los proyectos empresariales que requieren privacidad. La idea que [...]
 
 ## Cómo se organiza
 
@@ -43,15 +43,15 @@ Aquí separo cada tipo de trabajo según su propósito: la práctica progresiva,
 
 | Proyecto | Contexto | Enfoque | Acceso |
 |---|---|---|---|
-| Ferretería Soto DB | Académico | SQL Server, modelo relacional, inventario y ventas | [Ver proyecto](https://github.com/chiletedevpath/academia/tree/main/utp/ciclo-04/base-de-datos-i/ferreteria-soto-db) |
-| Clínica Salud Vital | Académico | Java, POO, estructuras de datos y persistencia en CSV | [Ver proyecto](https://github.com/chiletedevpath/academia/tree/main/utp/ciclo-05/algoritmos-y-estructuras-de-datos/clinica-salud-vital) |
-| FerreSys - Patrones de Diseño | Académico | Java, GRASP y patrones de diseño GOF | [Ver proyecto](https://github.com/chiletedevpath/academia/tree/main/utp/ciclo-05/patrones-de-diseno/ferreteria-sys-patrones) |
+| Ferretería Soto DB | Académico | SQL Server, modelo relacional, inventario y ventas | [Ver proyecto](https://github.com/chiletedevpath/academia/tree/main/utp/ciclo-04/base-de-datos-i/gestion-comercial-db) |
+| Clínica Salud Vital | Académico | Java, POO, estructuras de datos y persistencia en CSV | [Ver proyecto](https://github.com/chiletedevpath/academia/tree/main/utp/ciclo-05/algoritmos-y-estructuras-de-datos/gestion-clinica-estructuras-datos) |
+| FerreSys - Patrones de Diseño | Académico | Java, GRASP y patrones de diseño GOF | [Ver proyecto](https://github.com/chiletedevpath/academia/tree/main/utp/ciclo-05/patrones-de-diseno/gestion-ventas-patrones-diseno) |
 
 Cada repositorio explica qué se construyó, qué conceptos se aplicaron y cuáles son sus límites. Un proyecto académico se presenta como evidencia de aprendizaje, no como producto comercial.
 
 ## Experiencia aplicada
 
-**Ferretería Soto** es el primer cliente real que confió en Chilete DevPath para desarrollar una solución de gestión empresarial. El proyecto se trabaja como software privado: su código, datos y operación interna no forman parte de los repositorios públicos.
+**Ferretería Soto** es el primer cliente real que confió en Chilete DevPath para desarrollar una solución de gestión empresarial. El proyecto se trabaja como software privado: su código, datos y [...]
 
 Solo se publicará información general o material autorizado que respete la privacidad del negocio y la separación entre una práctica académica y un sistema empresarial real.
 
@@ -68,7 +68,7 @@ Consulta las [políticas vigentes](docs/politicas/README.md) y el [checklist de 
 
 ## Estado actual
 
-Chilete DevPath cuenta con una web oficial, una ruta de aprendizaje organizada desde fundamentos hasta publicación, evidencia académica documentada y experiencia aplicada en un proyecto empresarial real. El portafolio profesional continúa en preparación y solo incorporará proyectos cuando tengan propósito, ejecución verificable, documentación y un estado honesto.
+Chilete DevPath cuenta con una web oficial, una ruta de aprendizaje organizada desde fundamentos hasta publicación, evidencia académica documentada y experiencia aplicada en un proyecto empresarial [...]
 
 ---
 
