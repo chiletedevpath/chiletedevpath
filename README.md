@@ -43,11 +43,12 @@ Aquí separo cada tipo de trabajo según su propósito: la práctica progresiva,
 
 | Proyecto | Contexto | Enfoque | Acceso |
 |---|---|---|---|
-| Ferretería Soto DB | Académico | SQL Server, modelo relacional, inventario y ventas | [Ver proyecto](https://github.com/chiletedevpath/academia/tree/main/utp/ciclo-04/base-de-datos-i/ferreteria-soto-db) |
-| Clínica Salud Vital | Académico | Java, POO, estructuras de datos y persistencia en CSV | [Ver proyecto](https://github.com/chiletedevpath/academia/tree/main/utp/ciclo-05/algoritmos-y-estructuras-de-datos/clinica-salud-vital) |
-| FerreSys - Patrones de Diseño | Académico | Java, GRASP y patrones de diseño GOF | [Ver proyecto](https://github.com/chiletedevpath/academia/tree/main/utp/ciclo-05/patrones-de-diseno/ferreteria-sys-patrones) |
+| Gestión de Inventario Java | Académico | Java, consola, arreglos, POO y excepciones | [Ver proyecto](https://github.com/chiletedevpath/academia/tree/main/utp/ciclo-03/taller-de-programacion/gestion-inventario-java) |
+| Gestión Comercial DB | Académico | SQL Server, modelo relacional, inventario y ventas | [Ver proyecto](https://github.com/chiletedevpath/academia/tree/main/utp/ciclo-04/base-de-datos-i/gestion-comercial-db) |
+| Gestión Clínica con Estructuras de Datos | Académico | Java, POO, estructuras de datos y persistencia en CSV | [Ver proyecto](https://github.com/chiletedevpath/academia/tree/main/utp/ciclo-05/algoritmos-y-estructuras-de-datos/gestion-clinica-estructuras-datos) |
+| Gestión de Ventas con Patrones de Diseño | Académico | Java, GRASP y patrones de diseño GOF | [Ver proyecto](https://github.com/chiletedevpath/academia/tree/main/utp/ciclo-05/patrones-de-diseno/gestion-ventas-patrones-diseno) |
 
-Cada repositorio explica qué se construyó, qué conceptos se aplicaron y cuáles son sus límites. Un proyecto académico se presenta como evidencia de aprendizaje, no como producto comercial.
+Cada proyecto explica qué se construyó, qué conceptos se aplicaron y cuáles son sus límites. Un proyecto académico se presenta como evidencia de aprendizaje, no como producto comercial.
 
 ## Experiencia aplicada
 
