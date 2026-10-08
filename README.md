@@ -5,8 +5,8 @@
 <h1 align="center">Chilete DevPath</h1>
 
 <p align="center">
-  <strong>Aprendizaje técnico, proyectos con contexto y evolución profesional verificable.</strong><br />
-  Ecosistema creado por Adrián Pisco, desarrollador Full Stack en formación y estudiante de Ingeniería de Sistemas e Informática.
+  <strong>Aprendizaje de tecnologías, proyectos con contexto y evolución verificable.</strong><br />
+  Ecosistema creado por Adrián Pisco, estudiante de Ingeniería de Sistemas e Informática y desarrollador en formación.
 </p>
 
 <p align="center">
@@ -25,36 +25,40 @@
 
 ## Qué es
 
-**Chilete DevPath** es mi marca personal y ecosistema técnico. Nace en Chilete, Cajamarca, para documentar con honestidad cómo aprendo, practico y construyo software.
+**Chilete DevPath** es mi marca personal y ecosistema de aprendizaje. Nace en Chilete, Cajamarca, para documentar con honestidad cómo estudio tecnologías, desarrollo prácticas y construyo proyectos.
 
-Aquí separo cada tipo de trabajo según su propósito: la práctica progresiva, la evidencia académica, la selección profesional y los proyectos empresariales que requieren privacidad. La idea que conecta todo es simple: **aprender, construir, validar, documentar y compartir con criterio**.
+Aquí separo cada tipo de trabajo según su propósito: rutas progresivas de aprendizaje, evidencia académica, proyectos aplicados, selección profesional futura y trabajo empresarial privado. La idea que conecta todo es simple: **aprender, construir, validar, documentar y compartir con criterio**.
 
 ## Cómo se organiza
 
 | Espacio | Rol |
 |---|---|
-| [Web oficial](https://chiletedevpath.com/) | Punto de entrada para conocer la ruta, los proyectos, los recursos y la comunidad. |
-| [Aprendizaje](https://github.com/chiletedevpath/aprendizaje) | Ruta progresiva de fundamentos, ejercicios, laboratorios y prácticas hasta publicación y producción. |
-| [Academia](https://github.com/chiletedevpath/academia) | Evidencia formativa organizada por institución, curso, contexto y alcance. |
+| [Web oficial](https://chiletedevpath.com/) | Punto de entrada para explorar rutas, recursos, proyectos y criterios de publicación. |
+| [Aprendizaje](https://github.com/chiletedevpath/aprendizaje) | Rutas progresivas con conceptos, prácticas, retos y evidencia revisada. |
+| [Academia](https://github.com/chiletedevpath/academia) | Proyectos formativos y aplicados organizados por contexto, tecnologías, estado y límites. |
 | [Portafolio](https://github.com/chiletedevpath/portafolio) | Selección profesional en preparación; no funciona todavía como vitrina final. |
-| [Marca y políticas](docs/README.md) | Identidad documental, publicación segura, uso responsable de IA y bienestar en el aprendizaje. |
+| [Marca y políticas](docs/README.md) | Gobierno del contenido, publicación segura, uso responsable de IA y bienestar en el aprendizaje. |
 
-## Evidencia destacada
+## Rutas publicadas
 
-| Proyecto | Contexto | Enfoque | Acceso |
-|---|---|---|---|
-| Gestión de Inventario Java | Académico | Java, consola, arreglos, POO y excepciones | [Ver proyecto](https://github.com/chiletedevpath/academia/tree/main/utp/ciclo-03/taller-de-programacion/gestion-inventario-java) |
-| Gestión Comercial DB | Académico | SQL Server, modelo relacional, inventario y ventas | [Ver proyecto](https://github.com/chiletedevpath/academia/tree/main/utp/ciclo-04/base-de-datos-i/gestion-comercial-db) |
-| Gestión Clínica con Estructuras de Datos | Académico | Java, POO, estructuras de datos y persistencia en CSV | [Ver proyecto](https://github.com/chiletedevpath/academia/tree/main/utp/ciclo-05/algoritmos-y-estructuras-de-datos/gestion-clinica-estructuras-datos) |
-| Gestión de Ventas con Patrones de Diseño | Académico | Java, GRASP y patrones de diseño GOF | [Ver proyecto](https://github.com/chiletedevpath/academia/tree/main/utp/ciclo-05/patrones-de-diseno/gestion-ventas-patrones-diseno) |
+| Ruta | Alcance actual | Estado |
+|---|---|---|
+| Desarrollo de software | Fundamentos, pseudocódigo, programación, POO, estructuras de datos, algoritmos, bases de datos, desarrollo web, patrones y backend. | Módulos `00` a `09` disponibles; frontend moderno y publicación/producción permanecen planificados. |
+| Excel y productividad | Datos, formatos, fórmulas, funciones, limpieza, visualización, integración y modelos aplicados. | Diez módulos disponibles con prácticas y retos. |
 
-Cada proyecto explica qué se construyó, qué conceptos se aplicaron y cuáles son sus límites. Un proyecto académico se presenta como evidencia de aprendizaje, no como producto comercial.
+Las rutas crecen solo cuando existe material propio o autorizado, práctica comprobable y un objetivo didáctico claro. Los temas planificados no se presentan como contenido terminado.
+
+## Evidencia de proyectos
+
+La evidencia disponible comprende proyectos de programación, bases de datos, estructuras de datos, desarrollo web, patrones de diseño, backend, integración full stack y productividad con hojas de cálculo.
+
+Consulta la [evidencia completa en Academia](https://github.com/chiletedevpath/academia). Cada proyecto declara su contexto formativo, qué se construyó, qué tecnologías se aplicaron, qué se validó y cuáles son sus límites. Esta evidencia no se presenta como producto comercial ni atribuye respaldo oficial de terceros.
 
 ## Experiencia aplicada
 
-**Ferretería Soto** es el primer cliente real que confió en Chilete DevPath para desarrollar una solución de gestión empresarial. El proyecto se trabaja como software privado: su código, datos y operación interna no forman parte de los repositorios públicos.
+**Ferretería Soto** es el primer cliente real que confió en Chilete DevPath para desarrollar una solución de gestión empresarial. El sistema se mantiene como software privado y avanza mediante pruebas controladas antes de operar con datos reales.
 
-Solo se publicará información general o material autorizado que respete la privacidad del negocio y la separación entre una práctica académica y un sistema empresarial real.
+Su código, datos, accesos y operación interna no forman parte del ecosistema público. Solo se comparte información general o material autorizado que respete la privacidad del negocio y la separación entre una práctica académica y un sistema empresarial real.
 
 ## Criterios de trabajo
 
@@ -69,7 +73,7 @@ Consulta las [políticas vigentes](docs/politicas/README.md) y el [checklist de 
 
 ## Estado actual
 
-Chilete DevPath cuenta con una web oficial, una ruta de aprendizaje organizada desde fundamentos hasta publicación, evidencia académica documentada y experiencia aplicada en un proyecto empresarial real. El portafolio profesional continúa en preparación y solo incorporará proyectos cuando tengan propósito, ejecución verificable, documentación y un estado honesto.
+Chilete DevPath cuenta con una web oficial, dos rutas de aprendizaje publicadas, proyectos formativos y aplicados documentados, políticas vigentes y experiencia en un proyecto empresarial real. El portafolio profesional continúa en preparación y solo incorporará proyectos cuando tengan propósito claro, ejecución verificable, documentación útil y un estado honesto.
 
 ---
 
