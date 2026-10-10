@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="assets/portada-linkedin.png" alt="Chilete DevPath - Ruta pública de aprendizaje técnico" width="100%" />
+  <img src="assets/portada-linkedin.png" alt="Chilete DevPath - Aprendizaje tecnológico y proyectos con contexto" width="100%" />
 </p>
 
 <h1 align="center">Chilete DevPath</h1>
 
 <p align="center">
-  <strong>Aprendizaje de tecnologías, proyectos con contexto y evolución verificable.</strong><br />
-  Ecosistema creado por Adrián Pisco, estudiante de Ingeniería de Sistemas e Informática y desarrollador en formación.
+  <strong>Aprendizaje tecnológico, práctica verificable y proyectos explicados con criterio.</strong><br />
+  Ecosistema creado por Adrián Pisco desde Chilete, Cajamarca, Perú.
 </p>
 
 <p align="center">
@@ -14,66 +14,79 @@
     <img src="https://img.shields.io/badge/Web-oficial-00A86B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web oficial de Chilete DevPath" />
   </a>
   <a href="https://github.com/chiletedevpath/aprendizaje">
-    <img src="https://img.shields.io/badge/Ruta-aprendizaje-0B1F33?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio aprendizaje" />
+    <img src="https://img.shields.io/badge/Rutas-aprendizaje-0B1F33?style=for-the-badge&logo=github&logoColor=white" alt="Rutas de aprendizaje de Chilete DevPath" />
   </a>
   <a href="https://github.com/chiletedevpath/academia">
-    <img src="https://img.shields.io/badge/Proyectos-academicos-D4A017?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio academia" />
+    <img src="https://img.shields.io/badge/Evidencia-formativa-D4A017?style=for-the-badge&logo=github&logoColor=white" alt="Evidencia formativa de Chilete DevPath" />
   </a>
 </p>
 
 ---
 
-## Qué es
+## Qué es Chilete DevPath
 
-**Chilete DevPath** es mi marca personal y ecosistema de aprendizaje. Nace en Chilete, Cajamarca, para documentar con honestidad cómo estudio tecnologías, desarrollo prácticas y construyo proyectos.
+**Chilete DevPath** es mi marca personal y ecosistema público de aprendizaje. Documento cómo estudio tecnologías, practico con intención y convierto lo aprendido en proyectos que pueden revisarse y explicarse.
 
-Aquí separo cada tipo de trabajo según su propósito: rutas progresivas de aprendizaje, evidencia académica, proyectos aplicados, selección profesional futura y trabajo empresarial privado. La idea que conecta todo es simple: **aprender, construir, validar, documentar y compartir con criterio**.
+El contenido se organiza con una regla sencilla: **comprender, practicar, construir, validar y publicar con criterio**. Cada avance debe mostrar contexto, evidencia y límites reales; una idea planificada no se presenta como trabajo terminado.
 
-## Cómo se organiza
+## Qué está publicado
 
-| Espacio | Rol |
+La [web oficial](https://chiletedevpath.com/) funciona como entrada principal al ecosistema y actualmente presenta:
+
+| Área | Estado verificable |
 |---|---|
-| [Web oficial](https://chiletedevpath.com/) | Punto de entrada para explorar rutas, recursos, proyectos y criterios de publicación. |
-| [Aprendizaje](https://github.com/chiletedevpath/aprendizaje) | Rutas progresivas con conceptos, prácticas, retos y evidencia revisada. |
-| [Academia](https://github.com/chiletedevpath/academia) | Proyectos formativos y aplicados organizados por contexto, tecnologías, estado y límites. |
-| [Portafolio](https://github.com/chiletedevpath/portafolio) | Selección profesional en preparación; no funciona todavía como vitrina final. |
-| [Marca y políticas](docs/README.md) | Gobierno del contenido, publicación segura, uso responsable de IA y bienestar en el aprendizaje. |
+| Desarrollo de software | 10 de 12 módulos disponibles: fundamentos, programación, datos, web, patrones y backend. |
+| Productividad y datos | 10 de 10 módulos disponibles con hojas de cálculo, fórmulas, análisis y modelos aplicados. |
+| Proyectos | 9 casos documentados con problema, solución, tecnologías, aprendizaje y acceso a la evidencia. |
+| Criterios | Autoría, privacidad, publicación segura, uso responsable de IA y bienestar técnico. |
 
-## Rutas publicadas
+Los módulos de frontend moderno y publicación/producción permanecen planificados. Se incorporarán cuando existan prácticas propias, revisadas y reproducibles.
 
-| Ruta | Alcance actual | Estado |
-|---|---|---|
-| Desarrollo de software | Fundamentos, pseudocódigo, programación, POO, estructuras de datos, algoritmos, bases de datos, desarrollo web, patrones y backend. | Módulos `00` a `09` disponibles; frontend moderno y publicación/producción permanecen planificados. |
-| Excel y productividad | Datos, formatos, fórmulas, funciones, limpieza, visualización, integración y modelos aplicados. | Diez módulos disponibles con prácticas y retos. |
+## Cómo se relaciona el ecosistema
 
-Las rutas crecen solo cuando existe material propio o autorizado, práctica comprobable y un objetivo didáctico claro. Los temas planificados no se presentan como contenido terminado.
+| Espacio | Responsabilidad |
+|---|---|
+| [Web oficial](https://chiletedevpath.com/) | Presenta las rutas, recursos, proyectos y criterios en una experiencia pública bilingüe. |
+| [Aprendizaje](https://github.com/chiletedevpath/aprendizaje) | Conserva la ruta progresiva, sus conceptos, prácticas, retos y evidencias técnicas. |
+| [Academia](https://github.com/chiletedevpath/academia) | Reúne proyectos formativos y aplicados con contexto, tecnologías, validación y límites. |
+| [Chilete DevPath](https://github.com/chiletedevpath/chiletedevpath) | Mantiene la presentación de marca y las políticas que gobiernan el contenido público. |
+| [Portafolio](https://github.com/chiletedevpath/portafolio) | Prepara una selección profesional futura; todavía no se presenta como portafolio final. |
 
-## Evidencia de proyectos
+La web resume y conecta el contenido; `aprendizaje` conserva la progresión didáctica y `academia` mantiene la evidencia completa. Esta separación evita duplicar información o convertir prácticas formativas en productos comerciales.
 
-La evidencia disponible comprende proyectos de programación, bases de datos, estructuras de datos, desarrollo web, patrones de diseño, backend, integración full stack y productividad con hojas de cálculo.
+## Proyectos con contexto
 
-Consulta la [evidencia completa en Academia](https://github.com/chiletedevpath/academia). Cada proyecto declara su contexto formativo, qué se construyó, qué tecnologías se aplicaron, qué se validó y cuáles son sus límites. Esta evidencia no se presenta como producto comercial ni atribuye respaldo oficial de terceros.
+Los proyectos publicados cubren programación, bases de datos, estructuras de datos, desarrollo web, patrones de diseño, backend, integración full stack y productividad con datos.
+
+Cada caso responde cuatro preguntas:
+
+1. ¿Qué problema se buscó resolver?
+2. ¿Qué solución se construyó?
+3. ¿Qué tecnologías y decisiones se aplicaron?
+4. ¿Qué quedó validado y qué puede mejorar?
+
+Puedes explorar el [catálogo público de proyectos](https://chiletedevpath.com/proyectos/) o consultar la [evidencia técnica en Academia](https://github.com/chiletedevpath/academia).
 
 ## Experiencia aplicada
 
 **Ferretería Soto** es el primer cliente real que confió en Chilete DevPath para desarrollar una solución de gestión empresarial. El sistema se mantiene como software privado y avanza mediante pruebas controladas antes de operar con datos reales.
 
-Su código, datos, accesos y operación interna no forman parte del ecosistema público. Solo se comparte información general o material autorizado que respete la privacidad del negocio y la separación entre una práctica académica y un sistema empresarial real.
+Su código, datos, accesos y operación interna no forman parte del ecosistema público. Solo se comparte información general o material autorizado que respete la privacidad del negocio.
 
-## Criterios de trabajo
+## Criterios de publicación
 
-- Aprendizaje respaldado por ejercicios, documentación y resultados revisables.
-- Proyectos presentados con contexto, alcance y estado reales.
-- Separación clara entre práctica, academia, portafolio y trabajo privado.
-- Seguridad, privacidad y trazabilidad como requisitos del desarrollo.
-- Uso responsable de IA, con revisión humana y autoría transparente.
-- Progreso sostenible, sin normalizar el agotamiento como método de aprendizaje.
+- Mostrar evidencia verificable y declarar el estado real de cada trabajo.
+- Diferenciar aprendizaje, proyecto formativo, selección profesional y trabajo privado.
+- Proteger datos personales, credenciales, accesos e información de terceros.
+- Reconocer fuentes y colaboraciones sin atribuir respaldo oficial.
+- Usar IA como apoyo sujeto a revisión humana, no como sustituto del aprendizaje.
+- Mantener un proceso sostenible que no normalice el agotamiento.
 
-Consulta las [políticas vigentes](docs/politicas/README.md) y el [checklist de publicación segura](docs/publicacion/CHECKLIST_PUBLICACION_SEGURA.md).
+Consulta los [criterios publicados en la web](https://chiletedevpath.com/criterios/), las [políticas vigentes](docs/politicas/README.md) y el [checklist de publicación segura](docs/publicacion/CHECKLIST_PUBLICACION_SEGURA.md).
 
 ## Estado actual
 
-Chilete DevPath cuenta con una web oficial, dos rutas de aprendizaje publicadas, proyectos formativos y aplicados documentados, políticas vigentes y experiencia en un proyecto empresarial real. El portafolio profesional continúa en preparación y solo incorporará proyectos cuando tengan propósito claro, ejecución verificable, documentación útil y un estado honesto.
+Chilete DevPath cuenta con una web pública en español e inglés, dos rutas de aprendizaje, un catálogo de proyectos con evidencia enlazada y criterios de publicación integrados. El ecosistema continúa creciendo solo cuando el contenido puede revisarse, ejecutarse o justificarse con claridad.
 
 ---
 
